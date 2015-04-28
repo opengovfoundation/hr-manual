@@ -14,8 +14,8 @@ The following files are available in a variety of formats - use the links below 
 
 Document | | | | |
 --- | --- | --- | --- | --- |
-HR Policy Manual | [Markdown](https://rawgit.com/opengovfoundation/site-policy/master/markdown/manual.md) | [HTML](https://rawgit.com/opengovfoundation/site-policy/master/html/manual.html) | [PDF](https://rawgit.com/opengovfoundation/site-policy/master/pdf/manual.pdf) | [Microsoft Word](https://rawgit.com/opengovfoundation/site-policy/master/docx/manual.docx)
-List of Holidays | [Markdown](https://rawgit.com/opengovfoundation/site-policy/master/markdown/holidays.md) | [HTML](https://rawgit.com/opengovfoundation/site-policy/master/html/holidays.html) | [PDF](https://rawgit.com/opengovfoundation/site-policy/master/pdf/holidays.pdf) | [Microsoft Word](https://rawgit.com/opengovfoundation/site-policy/master/docx/holidays.docx)
+HR Policy Manual | [Markdown](https://rawgit.com/opengovfoundation/hr-manual/master/markdown/manual.md) | [HTML](https://rawgit.com/opengovfoundation/hr-manual/master/html/manual.html) | [PDF](https://rawgit.com/opengovfoundation/hr-manual/master/pdf/manual.pdf) | [Microsoft Word](https://rawgit.com/opengovfoundation/hr-manual/master/docx/manual.docx)
+List of Holidays | [Markdown](https://rawgit.com/opengovfoundation/hr-manual/master/markdown/holidays.md) | [HTML](https://rawgit.com/opengovfoundation/hr-manual/master/html/holidays.html) | [PDF](https://rawgit.com/opengovfoundation/hr-manual/master/pdf/holidays.pdf) | [Microsoft Word](https://rawgit.com/opengovfoundation/hr-manual/master/docx/holidays.docx)
 
 ## Contributing
 
