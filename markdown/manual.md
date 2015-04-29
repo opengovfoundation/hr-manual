@@ -42,6 +42,7 @@ All media inquiries regarding the company and its operations must be referred to
 * Chris Birk, Lead Developer
 * Bill Hunt, Senior Developer
 * Leili Slutz, Operations Architect
+* Aaron Bartnick, Chief of Operations
 
 ### Board of Directors
 * Congressman Darrell Issa, Chairman
