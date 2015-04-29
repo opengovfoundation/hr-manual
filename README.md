@@ -1,7 +1,19 @@
 # hr-manual
-## Human Resources Policy Manual for reuse
+## Human Resources Documents for reuse
 
-This is the policy manual we're using at The OpenGov Foundation, created by ourselves with our laywers. We are releasing it here under the [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/), so that everyone can take it and reuse it.  Creating a strong human resources policy is an expensive, difficult task for most small organizations.  Feel free to use this for your organization, and please suggest any changes that you think we should make.
+This is a series of documents we're using at the The OpenGov Foundation, created by ourselves with our laywers. We are releasing these here under the [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/), so that everyone can take it and reuse it.  Creating a strong human resources policy is an expensive, difficult task for most small organizations.
+
+There are a variety of documents here which may or may not be relevant to your organization, so feel free to use whichever of these are useful and ignore the rest.
+
+Included are:
+
+* [HR Policy Manual](./markdown/manual.md) - The policy manual we're using at OpenGov Foundation, covering benefits, company policies, and more.
+* [Holidays](./markdown/holidays.md) - A full list of the days the organization is officially closed.
+* [Status Messages](./markdown/status-messages.md) - How to write effective daily stand-up or status emails or messages.  We have every employee send a message to the team every morning.  We've found these very useful for small, decentralized teams to keep everyone in the loop.
+* [Timesheets](./markdown/timesheets.md) Guide - How to enter time into your timesheet application.  We use Harvest, but this is general enough to adapt this for any tool - this is process-oriented, not software-oriented.
+
+Please suggest any changes that you think we should make, or contribute your own to the repo!
+
 
 ## Disclaimer
 This was created based on United States law, and if you're not in the US the policies here might not be legal wherever you are.
@@ -12,10 +24,13 @@ We are not lawyers, and cannot give you legal advice or tell you what is best fo
 
 The following files are available in a variety of formats - use the links below to download them directly.
 
-Document | | | | |
+Document | Description | | | |
 --- | --- | --- | --- | --- |
 HR Policy Manual | [Markdown](https://rawgit.com/opengovfoundation/hr-manual/master/markdown/manual.md) | [HTML](https://rawgit.com/opengovfoundation/hr-manual/master/html/manual.html) | [PDF](https://rawgit.com/opengovfoundation/hr-manual/master/pdf/manual.pdf) | [Microsoft Word](https://rawgit.com/opengovfoundation/hr-manual/master/docx/manual.docx)
-List of Holidays | [Markdown](https://rawgit.com/opengovfoundation/hr-manual/master/markdown/holidays.md) | [HTML](https://rawgit.com/opengovfoundation/hr-manual/master/html/holidays.html) | [PDF](https://rawgit.com/opengovfoundation/hr-manual/master/pdf/holidays.pdf) | [Microsoft Word](https://rawgit.com/opengovfoundation/hr-manual/master/docx/holidays.docx)
+Holidays (2015-2016) | [Markdown](https://rawgit.com/opengovfoundation/hr-manual/master/markdown/holidays.md) | [HTML](https://rawgit.com/opengovfoundation/hr-manual/master/html/holidays.html) | [PDF](https://rawgit.com/opengovfoundation/hr-manual/master/pdf/holidays.pdf) | [Microsoft Word](https://rawgit.com/opengovfoundation/hr-manual/master/docx/holidays.docx)
+Status Messages | [Markdown](https://rawgit.com/opengovfoundation/hr-manual/master/markdown/status-messages.md) | [HTML](https://rawgit.com/opengovfoundation/hr-manual/master/html/status-messages.html) | [PDF](https://rawgit.com/opengovfoundation/hr-manual/master/pdf/status-messages.pdf) | [Microsoft Word](https://rawgit.com/opengovfoundation/hr-manual/master/docx/status-messages.docx)
+Timesheets | [Markdown](https://rawgit.com/opengovfoundation/hr-manual/master/markdown/timesheets.md) | [HTML](https://rawgit.com/opengovfoundation/hr-manual/master/html/timesheets.html) | [PDF](https://rawgit.com/opengovfoundation/hr-manual/master/pdf/timesheets.pdf) | [Microsoft Word](https://rawgit.com/opengovfoundation/hr-manual/master/docx/timesheets.docx)
+
 
 ## Contributing
 
