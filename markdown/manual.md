@@ -7,11 +7,11 @@ We open up laws, legislation, and the lawmaking process online so that as many p
 
 
 ## Vision
-We are former and current government workers, designers, technologists, and concerned citizens who believe in building with, not for & in partnering directly with users both in and outside of government to find solutions that help bridge the gap between the two. We're focused on long-term solutions, building tools and processes that change the culture of how governments operate.
+We are former and current government workers, designers, technologists, and concerned citizens who believe in building with, not for, and in partnering directly with users both in and outside of government to find solutions that help bridge the gap between the two. We're focused on long-term solutions, building tools and processes that change the culture of how governments operate.
 
 Everything we create is open source, free for anyone to take and use.
 
-We're building a national network of people like us & the Free Law Founders -- to share resources and expertise around solving shared challenges in modernizing the lawmaking process.
+We're building a national network of people like us and the Free Law Founders—to share resources and expertise around solving shared challenges in modernizing the lawmaking process.
 
 
 ## Culture & Compliance
@@ -82,17 +82,17 @@ Additional raises and bonuses may be considered at other times to account for sp
 ## Covered Expenses & Reimbursements
 
 ### Covered Expenses
-The OpenGov Foundation will reimburse pre-approved, work-related expenses.  Any expenditure totalling more than $1,000 - including cumulative expenses like software subscriptions, must be pre-approved by the Board of Directors and Executive Director.  Sub-$1,000 reimbursable expenses which do not require BOD approval include but are not limited to:
+The OpenGov Foundation will reimburse pre-approved, work-related expenses.  Any expenditure totalling more than $1,000—including cumulative expenses like software subscriptions—must be pre-approved by the Board of Directors and Executive Director.  Sub-$1,000 reimbursable expenses which do not require BOD approval include but are not limited to:
 
-* Travel between work meetings and the office
-* Travel to, from, and during conferences and events
-* Housing and food during conferences and events
-* Business-meeting meals and drinks
-* Office supplies
-* Organization-specific subscriptions and/or software
-* Expenses stemming from events organized by The OpenGov Foundation
+* Travel between work meetings and the office.
+* Travel to, from, and during conferences and events.
+* Housing and food during conferences and events.
+* Business-meeting meals and drinks.
+* Office supplies.
+* Organization-specific subscriptions and/or software.
+* Expenses stemming from events organized by The OpenGov Foundation.
 
-Employees are expected to travel coach class when traveling by air, book reasonably priced hotels and not spend excessively on meals and other travel expenses.
+Employees are expected to travel coach class when traveling by air, book reasonably-priced hotels and not spend excessively on meals and other travel expenses.
 
 ### Reimbursements
 You are strongly encouraged to file reimbursement requests as soon as you incur the expenses, for example, within the week following a business trip or conference.  Expenses are usually reimbursed within a week of approval and submission.  Each reimbursement request must be sent to the Executive Director, who will review, approve, then submit for payment to the Chairman of the Board of Directors and our bookkeeper.  Each reimbursement request must include these three things:
@@ -121,11 +121,11 @@ To seek approval for a professional development opportunity, please submit the f
 
 Employees are expected to work a minimum of 40 hours per week, but we are flexible on where and when that work gets done.
 
-Employees should check in on Teamwork by 11 AM EST each week day with an update of their work plan for the day. Communication is vital to the success of our team; therefore, team members are expected to be reasonably accessible by phone, Slack, and email between the hours of 11am-4pm.
+Employees should check in on Teamwork by 11 AM EST each week day with an update of their work plan for the day. Communication is vital to the success of our team; therefore, team members are expected to be reasonably accessible by phone, Slack, and email between the hours of 11 AM–4 PM.
 
 Employees are able to work from home and/or remotely, as long as they are able to participate in all necessary meetings.
 
-Any time that you won't be available during usual office hours (9am - 5pm) - for appointments, sick time, vacation, etc - should be put on the calendar, and an email must be sent to the employee's supervisor.  For non-emergency medical absences, please notify your supervisor at least 48 hours in advance.
+Any time that you won't be available during usual office hours (9 PM–5 PM)—for appointments, sick time, vacation, etc.—should be put on the calendar, and an email must be sent to the employee's supervisor.  For non-emergency medical absences, please notify your supervisor at least 48 hours in advance.
 
 We track time using Harvest. Hours worked must be recorded in Harvest by the end of each week (Sunday evening).
 
@@ -149,7 +149,7 @@ Please notify the team if you are sick and need to take the day off. Even if you
 ## How We Work
 
 ### Email Accounts, Document Sharing & Password Sharing
-We will set you up with an opengovfoundation.org gmail account.  This will provide you access to our email, calendar, and Google Plus accounts.  Please use this for all work-related correspondence, scheduling, etc.  Personal accounts should not be used for work-related activities.
+We will set you up with an opengovfoundation.org Gmail account.  This will provide you access to our email, calendar, and Google+ accounts.  Please use this for all work-related correspondence, scheduling, etc.  Personal accounts should not be used for work-related activities.
 
 You will be granted access to our shared passwords in Passpack.  All passwords that need to be shared with the organization must be shared using Passpack, you must not share them via email or other insecure methods.
 
