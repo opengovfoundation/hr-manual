@@ -9,10 +9,10 @@ Included are:
 
 * [HR Policy Manual](./markdown/manual.md) - The policy manual we're using at OpenGov Foundation, covering benefits, company policies, and more.
 * [Holidays](./markdown/holidays.md) - A full list of the days the organization is officially closed.
-* [Status Messages](./markdown/status-messages.md) - How to write effective daily stand-up or status emails or messages.  We have every employee send a message to the team every morning.  We've found these very useful for small, decentralized teams to keep everyone in the loop.
-* [Timesheets](./markdown/timesheets.md) Guide - How to enter time into your timesheet application.  We use Harvest, but this is general enough to adapt this for any tool - this is process-oriented, not software-oriented.
 
 Please suggest any changes that you think we should make, or contribute your own to the repo!
+
+There are other useful documents to use in our [HR Resources Repository](https://github.com/opengovfoundation/hr-resources).
 
 
 ## Disclaimer
@@ -28,9 +28,6 @@ Document | Description | | | |
 --- | --- | --- | --- | --- |
 HR Policy Manual | [Markdown](https://rawgit.com/opengovfoundation/hr-manual/master/markdown/manual.md) | [HTML](https://rawgit.com/opengovfoundation/hr-manual/master/html/manual.html) | [PDF](https://rawgit.com/opengovfoundation/hr-manual/master/pdf/manual.pdf) | [Microsoft Word](https://rawgit.com/opengovfoundation/hr-manual/master/docx/manual.docx)
 Holidays (2015-2016) | [Markdown](https://rawgit.com/opengovfoundation/hr-manual/master/markdown/holidays.md) | [HTML](https://rawgit.com/opengovfoundation/hr-manual/master/html/holidays.html) | [PDF](https://rawgit.com/opengovfoundation/hr-manual/master/pdf/holidays.pdf) | [Microsoft Word](https://rawgit.com/opengovfoundation/hr-manual/master/docx/holidays.docx)
-Status Messages | [Markdown](https://rawgit.com/opengovfoundation/hr-manual/master/markdown/status-messages.md) | [HTML](https://rawgit.com/opengovfoundation/hr-manual/master/html/status-messages.html) | [PDF](https://rawgit.com/opengovfoundation/hr-manual/master/pdf/status-messages.pdf) | [Microsoft Word](https://rawgit.com/opengovfoundation/hr-manual/master/docx/status-messages.docx)
-Timesheets | [Markdown](https://rawgit.com/opengovfoundation/hr-manual/master/markdown/timesheets.md) | [HTML](https://rawgit.com/opengovfoundation/hr-manual/master/html/timesheets.html) | [PDF](https://rawgit.com/opengovfoundation/hr-manual/master/pdf/timesheets.pdf) | [Microsoft Word](https://rawgit.com/opengovfoundation/hr-manual/master/docx/timesheets.docx)
-
 
 ## Contributing
 
