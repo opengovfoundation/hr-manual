@@ -1,5 +1,5 @@
 # hr-manual
-## Human Resources Documents for reuse
+## Human Resources Manual for reuse
 
 This is a series of documents we're using at the The OpenGov Foundation, created by ourselves with our laywers. We are releasing these here under the [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/), so that everyone can take it and reuse it.  Creating a strong human resources policy is an expensive, difficult task for most small organizations.
 
