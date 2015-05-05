@@ -16,11 +16,12 @@ Please suggest any changes that you think we should make, or contribute your own
 
 There are other useful documents to use in our [HR Resources Repository](https://github.com/opengovfoundation/hr-resources).
 
-
 ## Disclaimer
 This was created based on United States law, and if you're not in the US the policies here might not be legal wherever you are.
 
-We are not lawyers, and cannot give you legal advice or tell you what is best for your organization. If you have any questions, ask an actual lawyer.
+We are not lawyers, and cannot give you legal advice or tell you what is best for your organization.  You should have an actual lawyer review these documents before you use them in the first place.  If you have any questions, ask a lawyer.
+
+We cannot be held responsible for any legal trouble that these documents get you into.  You're using them of your own accord.  We're providing them as-is with no warranty.  Seriously, please don't sue us.
 
 ## Available Files
 
@@ -30,6 +31,14 @@ Document | Description | | | |
 --- | --- | --- | --- | --- |
 HR Policy Manual | [Markdown](https://rawgit.com/opengovfoundation/hr-manual/master/markdown/manual.md) | [HTML](https://rawgit.com/opengovfoundation/hr-manual/master/html/manual.html) | [PDF](https://rawgit.com/opengovfoundation/hr-manual/master/pdf/manual.pdf) | [Microsoft Word](https://rawgit.com/opengovfoundation/hr-manual/master/docx/manual.docx)
 Holidays (2015-2016) | [Markdown](https://rawgit.com/opengovfoundation/hr-manual/master/markdown/holidays.md) | [HTML](https://rawgit.com/opengovfoundation/hr-manual/master/html/holidays.html) | [PDF](https://rawgit.com/opengovfoundation/hr-manual/master/pdf/holidays.pdf) | [Microsoft Word](https://rawgit.com/opengovfoundation/hr-manual/master/docx/holidays.docx)
+
+## How to Use The Documents
+
+To use these files, simply download your preferred version and edit them.  You'll probably want to replace the OpenGov-specific information - our staff, board, mission, etc. with your own.  Then read through each section and modify it to fit your own organization's policies and tools.
+
+You'll need to review the final, edited document with a lawyer to make sure everything is legal.  In particular, there are very specific requirements in the US for discrimination, leave, and other workplace practices that you want to get right, or you could face legal action.
+
+To repeat: we are not lawyers!  These documents are meant to be guidelines only to get you started.
 
 ## Contributing
 
