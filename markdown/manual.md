@@ -65,10 +65,10 @@ All media inquiries regarding the company and its operations must be referred to
 ## Benefits & Compensation
 
 ### Payroll
-Administered twice monthly, on the 15th and last day of each month, via direct deposit. The OpenGov Foundation's Treasurer, Rich Hirshberg, is available to help with any payroll or benefits questions.
+Administered twice monthly, on the 15th and last day of each month, via direct deposit.  The organization's treasurer is available to help with any payroll or benefits questions.
 
 ### Medical,  Dental and Vision Coverage
-We receive health and dental coverage and pharmacy benefits through a Company sponsored Healthcare plan. Rich Hirshberg will help you to enroll.  The company pays 80% of the premium cost of the plan.  The employee pays 20% through payroll deduction.  Enrollment in the benefit plans is optional.
+We receive health and dental coverage and pharmacy benefits through a Company sponsored Healthcare plan.  The company pays 80% of the premium cost of the plan.  The employee pays 20% through payroll deduction.  Enrollment in the benefit plans is optional.
 
 The current plan is a United Healthcare PPO Plan, including dental and vision coverage.  Physician network and other services can be found at www.myuhc.com
 
@@ -83,7 +83,7 @@ Additional raises and bonuses may be considered at other times to account for sp
 ## Covered Expenses & Reimbursements
 
 ### Covered Expenses
-The OpenGov Foundation will reimburse pre-approved, work-related expenses.  Any expenditure totalling more than $1,000—including cumulative expenses like software subscriptions—must be pre-approved by the Board of Directors and Executive Director.  Sub-$1,000 reimbursable expenses which do not require BOD approval include but are not limited to:
+The organization will reimburse pre-approved, work-related expenses.  Any expenditure totalling more than $1,000—including cumulative expenses like software subscriptions—must be pre-approved by the Board of Directors and Executive Director.  Sub-$1,000 reimbursable expenses which do not require BOD approval include but are not limited to:
 
 * Travel between work meetings and the office.
 * Travel to, from, and during conferences and events.
@@ -91,7 +91,7 @@ The OpenGov Foundation will reimburse pre-approved, work-related expenses.  Any 
 * Business-meeting meals and drinks.
 * Office supplies.
 * Organization-specific subscriptions and/or software.
-* Expenses stemming from events organized by The OpenGov Foundation.
+* Expenses stemming from events organized by the organization
 
 Employees are expected to travel coach class when traveling by air, book reasonably-priced hotels and not spend excessively on meals and other travel expenses.
 
@@ -103,7 +103,7 @@ You are strongly encouraged to file reimbursement requests as soon as you incur 
 3. A PDF document that is less than 10MB in size containing receipts for each of the expenses for which you are seeking reimbursement.
 
 ### Professional Development
-We strongly encourage employees to explore professional development options. The OpenGov Foundation will cover one half of pre-approved costs associated with professional development expenditures. All professional development expenses require both Executive Director and Board of Directors approval.
+We strongly encourage employees to explore professional development options. The organization will cover one half of pre-approved costs associated with professional development expenditures. All professional development expenses require both Executive Director and Board of Directors approval.
 
 Potential professional development opportunities include, but are not limited to:
 * Attending relevant professional conferences.
@@ -111,7 +111,7 @@ Potential professional development opportunities include, but are not limited to
 * Books on relevant topics.
 
 To seek approval for a professional development opportunity, please submit the following items to your supervisor, who will review and discuss them with you, and share them with the Board of Directors.
-* A short memo outlining the professional development opportunity you are seeking, how it would support your growth, how it would benefit The OpenGov Foundation.
+* A short memo outlining the professional development opportunity you are seeking, how it would support your growth, how it would benefit the organization.
 * The total cost of the opportunity, and any relevant payment dates and methods.
 * The time the opportunity would require (dates, times, including travel) as well as the location.
 
@@ -133,9 +133,9 @@ We track time using Harvest. Hours worked must be recorded in Harvest by the end
 ### Vacation & Leave Policy
 We are closed on all Federal holidays and during the week between Christmas and the New Year.  We also have a few additional days off, please see [the attached holidays list](holidays.md).
 
-We expect everyone to be able to get their work done in a timely fashion, and to not have to work on personal time.  Rested and refreshed people are better team members, and we strongly encourage enjoying life outside of The OpenGov Foundation office.  Employees should take a *minimum* of two weeks of paid vacation per year, totaling 10 business days.
+We expect everyone to be able to get their work done in a timely fashion, and to not have to work on personal time.  Rested and refreshed people are better team members, and we strongly encourage enjoying life outside of the office.  Employees should take a *minimum* of two weeks of paid vacation per year, totaling 10 business days.
 
-To schedule time off, permission must be granted by your supervisor no less than 5 business days in advance, the dates and location of your travel must be put onto The OpenGov Foundation team calendar, and the team should be notified via email.  To track time off, please track the vacation time in Harvest.
+To schedule time off, permission must be granted by your supervisor no less than 5 business days in advance, the dates and location of your travel must be put onto the team calendar, and the team should be notified via email.  To track time off, please track the vacation time in Harvest.
 
 For personal, medical, or family leave, each employee is encouraged to take the current Family and Medical Leave Act maximum.
 
@@ -150,14 +150,14 @@ Please notify the team if you are sick and need to take the day off. Even if you
 ## How We Work
 
 ### Email Accounts, Document Sharing & Password Sharing
-We will set you up with an opengovfoundation.org Gmail account.  This will provide you access to our email, calendar, and Google+ accounts.  Please use this for all work-related correspondence, scheduling, etc.  Personal accounts should not be used for work-related activities.
+We will set you up with an organization Gmail account.  This will provide you access to our email, calendar, and Google+ accounts.  Please use this for all work-related correspondence, scheduling, etc.  Personal accounts should not be used for work-related activities.
 
 You will be granted access to our shared passwords in Passpack.  All passwords that need to be shared with the organization must be shared using Passpack, you must not share them via email or other insecure methods.
 
 ### Calendars
-Please keep your availability updated on your opengovfoundation.org Google calendar, with meetings, vacation time, appointments, and anything else that teammates might need to schedule around. Feel free to schedule meetings with other coworkers on the Google calendar.
+Please keep your availability updated on your Google calendar account associated with the organization - please don't use your personal account.  Please record any meetings, vacation time, appointments, and anything else that your teammates might need to schedule around.  Feel free to schedule meetings with other coworkers on the Google calendar.
 
-To help prevent resource conflicts, if you are using the UberConference number or the appear.in video chat, please add your call to the appropriate calendar (OpenGov Phone Conference, OpenGov Video Conference, etc), which we will share with your work account.
+To help prevent resource conflicts, if you are using the UberConference number or the appear.in video chat, please add your call to the appropriate calendar (Phone Conference, Video Conference, etc), which we will share with your work account.
 
 ### Regular Meetings
 
@@ -170,7 +170,7 @@ We meet once a week to go over our priorities for the week. We do our best to me
 #### Tech Breakfasts
 Every week we hold a question-and-answer session where non-technical members of the team can ask our developers whatever tech-related questions they want. This is a great way to make sure everyone's on the same page regarding what we're building & but questions don't have to be about our work.
 
-#### OpenGov Book Club
+#### Book Club
 We're a small team in an emerging field. Professional development and continuing education is an important part of all of our jobs. We foster team growth by holding a book club once a month. Anyone is welcome to suggest reading material; it's helpful for that person to facilitate discussion by bringing a few questions or observations from the reading to the discussion.
 
 ### Tools & Services We Use
@@ -182,13 +182,13 @@ For daily status updates, project planning, and task management. If you need ano
 For team chat.
 
 #### UberConference
-For group calls. Please enter calls on the OpenGov Phone Conference calendar to avoid double-booking the line.
+For group calls. Please enter calls on the Phone Conference calendar to avoid double-booking the line.
 
 #### Appear.in, Skype
-For group video chats. Please enter appear.in calls on the OpenGov Video Conference calendar to avoid double-booking the service.
+For group video chats. Please enter appear.in calls on the Video Conference calendar to avoid double-booking the service.
 
 #### Google Calendar
-Please keep your availability updated on your OpenGov Google Calendar.
+Please keep your availability updated on your Google Calendar for the organization.
 
 #### Google Docs
 For group collaboration on written materials, call agendas, our budget tracking document, etc. etc.
@@ -206,7 +206,7 @@ Used for comments on America Decoded sites. We try to respond to non-spam commen
 For technical issues from Madison and State Decoded sites. We try to respond to questions and tech support issues within 24 hours.
 
 #### Passpack
-For password storage. Please create your own Passpack account and connect with the main OpenGov Foundation account. Any time you create an account relevant to our work, please share the password with the organization on Passpack.
+For password storage. Please create your own Passpack account and connect with the main organization account. Any time you create an account relevant to our work, please share the password with the organization on Passpack.
 
 ## Recommended Reading
 * Remote: Office Not Required ( specific chapters )
