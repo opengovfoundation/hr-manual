@@ -22,6 +22,26 @@ The OpenGov Foundation is committed to equal employment opportunity.  We will no
 ### Harassment, Bullying, Violence in the Workplace Policy
 We prohibit harassment of one employee by another employee, supervisor or third party for any reason.  Harassment of third parties by our employees is also prohibited.  The purpose of this policy is not to regulate the personal morality of employees.  It is to ensure that in the workplace, no employee harasses another for any reason or in any manner.  Any type of sexual harassment is against company policy and may be unlawful.
 
+Create boundaries to your own behavior and consider how you can create safe space that helps prevent unacceptable behavior by others. We do not seek to list all cases of unacceptable behavior, but provide examples to help guide our community in thinking through how to respond when we experience these types of behavior, whether directed at ourselves or others.
+
+If you are unsure if something is appropriate behavior, it probably isn’t. Each person you interact with can define where that line is for them. *Impact matters more than intent.* Ensuring that your behavior does not have a negative impact is your responsibility. Problems happen when we assume that our way of thinking or behaving is the norm or ok with everyone. This is particularly problematic when we are in a position of power or privilege.
+
+Here are a few examples of unacceptable behavior:
+
+* Negative or offensive remarks based on the protected classes as listed in the [GSA Anti-harassment Policy](http://www.gsa.gov/portal/directive/d0/content/663070) of race, religion, color, sex (with or without sexual conduct and including pregnancy and sexual orientation involving transgender status/gender identity, and sex-stereotyping), national origin, age, disability (physical or mental), genetic information, sexual orientation, gender identity, parental status, marital status, and political affiliation **as well as** gender expression, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, or clothing.  **Consider that calling attention to differences can feel alienating.**
+
+* Touching people without their affirmative consent.
+
+* Sustained and negative disruption of meetings or talks.
+
+* Patronizing language or behavior.
+
+* Aggressive and micro-aggressive behavior, such as unconstructive criticism, providing corrections that do not improve the conversation (sometimes referred to as "well actually"s), repeatedly interrupting or talking over someone else, feigning surprise at someone’s lack of knowledge or awareness about a topic, or subtle prejudice (for example, comments like “That’s so easy my grandmother could do it.”).
+
+* Referring to people in a way that misidentifies their gender and/or rejects the validity of their gender identity; for instance by using incorrect pronouns or forms of address (misgendering).
+
+* Retaliating against anyone who files a formal complaint that someone has violated these codes or laws. 
+
 ### Drug & Alcohol-Free Workplace Statement
 The unlawful or improper presence or use of controlled substances or alcohol in the workplace presents a danger to all employees.  Employees are prohibited from reporting to work or working while using illegal or unauthorized substances.
 
