@@ -142,7 +142,7 @@ To seek approval for a professional development opportunity, please submit the f
 
 Employees are expected to work a minimum of 40 hours per week, but we are flexible on where and when that work gets done.
 
-Employees should check in on Teamwork by 11 AM EST each week day with an update of their work plan for the day. Communication is vital to the success of our team; therefore, team members are expected to be reasonably accessible by phone, Slack, and email between the hours of 11 AM–4 PM.
+Employees should check in on Teamwork by 11 AM Eastern Time each week day with an update of their work plan for the day. Communication is vital to the success of our team; therefore, team members are expected to be reasonably accessible by phone, Slack, and email between the hours of 11 AM–4 PM.
 
 Employees are able to work from home and/or remotely, as long as they are able to participate in all necessary meetings.
 
