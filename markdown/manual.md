@@ -85,6 +85,8 @@ We receive health and dental coverage and pharmacy benefits through a Company sp
 The current plan is a United Healthcare PPO Plan, including dental and vision coverage.  Physician network and other services can be found at www.myuhc.com
 
 ### Annual Team Member Performance Review, Raises, and Bonuses
+We believe that the first step to success is setting clear personal, professional and organizational goals.  At the beginning of each calendar year, or when a new team member joins The OpenGov Foundation, each employee develops goals for the following six months.  In June, the employee and Executive Director review those goals, revise them if need be, and ensure that each employee has all of the support and resources possible to reach their goals.
+
 Each employee will participate in an annual review of their performance, conducted by the employee's direct supervisor.  Raises and bonuses will be considered by the Board of Directors at that time based on the individual employee's performance and recommendation from the Executive Director.
 
 Annual cost of living increases will be combined with any merit increases described above.  These will be reviewed and approved by the Board of Directors on an annual basis.
