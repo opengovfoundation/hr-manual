@@ -51,10 +51,9 @@ All media inquiries regarding the company and its operations must be referred to
 
 ### Staff
 * Seamus Kraft, Co-Founder and Executive Director
+* Aaron Bartnick, Chief Operating Officer
 * Chris Birk, Lead Developer
 * Bill Hunt, Senior Developer
-* Leili Slutz, Operations Architect
-* Aaron Bartnick, Chief of Operations
 
 ### Board of Directors
 * Congressman Darrell Issa, Chairman
