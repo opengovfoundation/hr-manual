@@ -172,8 +172,11 @@ To help prevent resource conflicts, if you are using the UberConference number o
 
 ### Regular Meetings
 
+#### Daily Team Meeting
+Every morning, we meet for 15-20 minutes to discuss our priorities for the day. We do our best to meet in person. If you cannot attend in person, please notify the group and call in via Skype. This is the best time to bring up issues that have arisen over the past 24 hours and work together to anticipate upcoming issues.
+
 #### Weekly Priorities-Setting Meeting
-We meet once a week to go over our priorities for the week. We do our best to meet in person. If you cannot attend in person, please notify the group and call in via appear.in.  This is a good time to ask for help from the group and to make sure that we are all using our time wisely.
+We meet once a week to go over our priorities for the week. We do our best to meet in person. If you cannot attend in person, please notify the group and call in via Skype.  This is a good time to ask for help from the group and to make sure that we are all using our time wisely.
 
 #### Weekly Team Lunch
 * We have lunch together once a week, just for fun and to catch up.
