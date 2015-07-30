@@ -51,10 +51,9 @@ All media inquiries regarding the company and its operations must be referred to
 
 ### Staff
 * Seamus Kraft, Co-Founder and Executive Director
+* Aaron Bartnick, Chief Operating Officer
 * Chris Birk, Lead Developer
 * Bill Hunt, Senior Developer
-* Leili Slutz, Operations Architect
-* Aaron Bartnick, Chief of Operations
 
 ### Board of Directors
 * Congressman Darrell Issa, Chairman
@@ -134,11 +133,11 @@ To seek approval for a professional development opportunity, please submit the f
 
 Employees are expected to work a minimum of 40 hours per week, but we are flexible on where and when that work gets done.
 
-Employees should check in on Teamwork by 11 AM Eastern Time each week day with an update of their work plan for the day. Communication is vital to the success of our team; therefore, team members are expected to be reasonably accessible by phone, Slack, and email between the hours of 11 AM–4 PM.
+Employees should check in on Teamwork by 10 AM Eastern Time each week day with an update of their work plan for the day. Communication is vital to the success of our team; therefore, team members are expected to be reasonably accessible by phone, Slack, and email between the hours of 10 AM–5 PM.
 
 Employees are able to work from home and/or remotely, as long as they are able to participate in all necessary meetings.
 
-Any time that you won't be available during usual office hours (9 PM–5 PM)—for appointments, sick time, vacation, etc.—should be put on the calendar, and an email must be sent to the employee's supervisor.  For non-emergency medical absences, please notify your supervisor at least 48 hours in advance.
+Any time that you won't be available during usual office hours (10 AM–5 PM)—for appointments, sick time, vacation, etc.—should be put on the calendar, and an email must be sent to the employee's supervisor.  For non-emergency medical absences, please notify your supervisor at least 48 hours in advance.
 
 We track time using Harvest. Hours worked must be recorded in Harvest by the end of each week (Sunday evening).
 
@@ -173,8 +172,11 @@ To help prevent resource conflicts, if you are using the UberConference number o
 
 ### Regular Meetings
 
+#### Daily Team Meeting
+Every morning, we meet for 15-20 minutes to discuss our priorities for the day. We do our best to meet in person. If you cannot attend in person, please notify the group and call in via Skype. This is the best time to bring up issues that have arisen over the past 24 hours and work together to anticipate upcoming issues.
+
 #### Weekly Priorities-Setting Meeting
-We meet once a week to go over our priorities for the week. We do our best to meet in person. If you cannot attend in person, please notify the group and call in via appear.in.  This is a good time to ask for help from the group and to make sure that we are all using our time wisely.
+We meet once a week to go over our priorities for the week. We do our best to meet in person. If you cannot attend in person, please notify the group and call in via Skype.  This is a good time to ask for help from the group and to make sure that we are all using our time wisely.
 
 #### Weekly Team Lunch
 * We have lunch together once a week, just for fun and to catch up.
