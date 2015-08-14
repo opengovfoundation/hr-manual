@@ -7,7 +7,7 @@ We open up laws, legislation, and the lawmaking process online so that as many p
 
 
 ## Vision
-We are former and current government workers, designers, technologists, and concerned citizens who believe in building with, not for, and in partnering directly with users both in and outside of government to find solutions that help bridge the gap between the two. We're focused on long-term solutions, building tools and processes that change the culture of how governments operate.
+The OpenGov Foundation is building a 21st century democracy by bridging the gap between citizens and government.
 
 Everything we create is open source, free for anyone to take and use.
 
