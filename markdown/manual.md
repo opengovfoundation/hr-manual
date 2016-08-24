@@ -1,13 +1,13 @@
 # Policy Manual
 
-Last Updated: April 28, 2015
+Last Updated: August 24, 2016
 
 ## Our Mission
 We open up laws, legislation, and the lawmaking process online so that as many people as possible can see, understand, and shape the policies that affect their lives.
 
 
 ## Vision
-The OpenGov Foundation is building a 21st century democracy by bridging the gap between citizens and government.
+We are former and current government workers, designers, technologists, and concerned citizens who believe in building with, not for, and in partnering directly with users both in and outside of government to find solutions that help bridge the gap between the two. We're focused on long-term solutions, building tools and processes that change the culture of how governments operate.
 
 Everything we create is open source, free for anyone to take and use.
 
@@ -51,30 +51,26 @@ All media inquiries regarding the company and its operations must be referred to
 
 ### Staff
 * Seamus Kraft, Co-Founder and Executive Director
-* Aaron Bartnick, Chief Operating Officer
-* Chris Birk, Lead Developer
-* Bill Hunt, Senior Developer
+* Meag Doherty, Chief of Staff
 * Seth Etter, Senior Developer
-* Nicko Margolies, Communications & Engagement
-* Meag Doherty, Operations Associate
+* Tanner Doshier, Senior Developer
+* Mary Kate Mezzetti, Intern
 
 ### Board of Directors
-* Congressman Darrell Issa, Chairman
-* Seamus Kraft, Vice-Chairman
+* Darrell Issa, Chairman
+* Seamus Kraft, President and Vice-Chairman
 * Rich Hirshberg, Treasurer
 * James Lacy, Counsel
-* Chris Birk, Member
 * Tom Davis, Member
 * Abhi Nemani, Member
-* Lanham Napier, Member
 * Larry Brady, Member
 
 ### Board of Advisers
 * Scout Addis, Design
-* Jen Yu, Design
+* Dr. Anne Washington, Legal Data and Informatics
 * Joe Trippi, Political Campaigns
 * Karien Bezuidenhout, Shuttleworth Foundation
-* Maggie McKinely, Harvard University
+* Maggie McKinley, Harvard University
 
 
 ## Benefits & Compensation
@@ -88,8 +84,6 @@ We receive health and dental coverage and pharmacy benefits through a Company sp
 The current plan is a United Healthcare PPO Plan, including dental and vision coverage.  Physician network and other services can be found at www.myuhc.com
 
 ### Annual Team Member Performance Review, Raises, and Bonuses
-We believe that the first step to success is setting clear personal, professional and organizational goals.  At the beginning of each calendar year, or when a new team member joins The OpenGov Foundation, each employee develops goals for the following six months.  In June, the employee and Executive Director review those goals, revise them if need be, and ensure that each employee has all of the support and resources possible to reach their goals.  In advance of the December meeting of the Board of Directors, the Executive Director will review each employee's goals with them, progress made, and start the process of developing the following year's goals.  The January, June and December employee goals and review sessions provide the bulk of the information to be used in each employee's annual performance review.  You can view [the Employee Goals template here](https://github.com/opengovfoundation/hr-resources/blob/master/markdown/employee-review.md).
-
 Each employee will participate in an annual review of their performance, conducted by the employee's direct supervisor.  Raises and bonuses will be considered by the Board of Directors at that time based on the individual employee's performance and recommendation from the Executive Director.
 
 Annual cost of living increases will be combined with any merit increases described above.  These will be reviewed and approved by the Board of Directors on an annual basis.
@@ -100,7 +94,7 @@ Additional raises and bonuses may be considered at other times to account for sp
 ## Covered Expenses & Reimbursements
 
 ### Covered Expenses
-The organization will reimburse pre-approved, work-related expenses.  Any expenditure totalling more than $1,000—including cumulative expenses like software subscriptions—must be pre-approved by the Board of Directors and Executive Director.  Sub-$1,000 reimbursable expenses which do not require BOD approval include but are not limited to:
+The organization will reimburse pre-approved, work-related expenses.  Any expenditure totaling more than $1,000—including cumulative expenses like software subscriptions—must be pre-approved by the Board of Directors and Executive Director.  Sub-$1,000 reimbursable expenses which do not require BOD approval include but are not limited to:
 
 * Travel between work meetings and the office.
 * Travel to, from, and during conferences and events.
@@ -139,11 +133,11 @@ To seek approval for a professional development opportunity, please submit the f
 
 Employees are expected to work a minimum of 40 hours per week, but we are flexible on where and when that work gets done.
 
-Employees should check in on Teamwork by 9:50 AM Eastern Time each week day with an update of their work plan for the day. Communication is vital to the success of our team; therefore, team members are expected to be reasonably accessible by phone, Slack, and email between the hours of 10 AM–5 PM Eastern Time.
+Employees should check in on Teamwork by 11 AM Eastern Time each week day with an update of their work plan for the day. Communication is vital to the success of our team; therefore, team members are expected to be reasonably accessible by phone, Slack, and email between the hours of 11 AM–4 PM.
 
 Employees are able to work from home and/or remotely, as long as they are able to participate in all necessary meetings.
 
-Any time that you won't be available during usual office hours (10 AM–5 PM Eastern Time)—for appointments, sick time, vacation, etc.—should be put on the calendar, and an email must be sent to the employee's supervisor.  For non-emergency medical absences, please notify your supervisor at least 48 hours in advance.
+Any time that you won't be available during usual office hours (9 PM–5 PM)—for appointments, sick time, vacation, etc.—should be put on the calendar, and an email must be sent to the employee's supervisor.  For non-emergency medical absences, please notify your supervisor at least 48 hours in advance.
 
 We track time using Harvest. Hours worked must be recorded in Harvest by the end of each week (Sunday evening).
 
@@ -178,11 +172,8 @@ To help prevent resource conflicts, if you are using the UberConference number o
 
 ### Regular Meetings
 
-#### Daily Team Meeting
-Every morning, we meet for 15-20 minutes to discuss our priorities for the day. We do our best to meet in person. If you cannot attend in person, please notify the group and call in via Google Hangout. This is the best time to bring up issues that have arisen over the past 24 hours and work together to anticipate upcoming issues.
-
 #### Weekly Priorities-Setting Meeting
-We meet once a week to go over our priorities for the week. We do our best to meet in person. If you cannot attend in person, please notify the group and call in via Google Hangout.  This is a good time to ask for help from the group and to make sure that we are all using our time wisely.
+We meet once a week to go over our priorities for the week. We do our best to meet in person. If you cannot attend in person, please notify the group and call in via appear.in.  This is a good time to ask for help from the group and to make sure that we are all using our time wisely.
 
 #### Weekly Team Lunch
 * We have lunch together once a week, just for fun and to catch up.
@@ -204,8 +195,8 @@ For team chat.
 #### UberConference
 For group calls. Please enter calls on the Phone Conference calendar to avoid double-booking the line.
 
-#### Google Hangout
-For group video chats. Hangout links are generated automatically in Google Calendar invitations.
+#### Google Hangouts
+For group video chats. Please append a Google Hangout link to any calendar invite you create and share.
 
 #### Google Calendar
 Please keep your availability updated on your Google Calendar for the organization.
@@ -229,7 +220,6 @@ For technical issues from Madison and State Decoded sites. We try to respond to 
 For password storage. Please create your own Passpack account and connect with the main organization account. Any time you create an account relevant to our work, please share the password with the organization on Passpack.
 
 ## Recommended Reading
-* Team of Teams
 * Remote: Office Not Required ( specific chapters )
 * How to Collaborate Remotely
 * Beware the Dragons
@@ -239,4 +229,3 @@ For password storage. Please create your own Passpack account and connect with t
 * The Lean Startup
 * Don't Make Me Think
 
-Also see [Bill's big list of books](https://gist.github.com/krues8dr/4a947e2a439a54eb22e9).
