@@ -11,7 +11,7 @@
   * If yes and the company doesn’t exist:
    * Create the company first, then after saving select ‘add person’ to associate that person with his or her company.
   * If no:
-   * Create a contact normally.
+    * Create a contact normally.
  * **Is this person a potential funder or business partner of The OpenGov Foundation?**
   * Nimble’s sole purpose is to help create and close fundraising deals. Only contacts pertinent to that cause should be saved as new contacts.
     * **This includes inquiries that come in regarding of Madison/State Decoded/Free Law Founders/Open Sources/Assembly Works
@@ -23,7 +23,7 @@
   * After their contact is saved, they should have the tag ‘lead’ added to their contact and a *tag that corresponds with the program* he or she has an inquiry about
   * After the inquirer is added as a contact a task should be created indicated the next action.
  
-### After saving a contact into Nimble, consider:
+#### After saving a contact into Nimble, consider:
 * **Tags** 
   * Almost *every new person* inputted as a contact into Nimble *should receive a tag based on* how they are related to OGF.
   * There are specific tags for people who work directly with OGF, such as the “Board of Directors”, “Board of Advisors”, “funder”, etc.
@@ -38,10 +38,10 @@
   * This would be a place to record who introduced you to this contact (if someone else did) and/or the location that the introduction was made.
 * **Organizations**
   * When placing a new organization into Nimble the *name* of the organization and *website* should be added along with any other information about the organization
-   * If you are adding a Congressional office or an office similar, include it as “The Office of Congressman….”
+    * If you are adding a Congressional office or an office similar, include it as “The Office of Congressman….”
   * You can *associate other contacts* with an organization by either:
-   1. Opening the organization’s contact and selecting ‘Add Person’.
-   2. Adding a new contact and adding the organization in the correct field.
+    * Opening the organization’s contact and selecting ‘Add Person’.
+    * Adding a new contact and adding the organization in the correct field.
  
 ## Phone Calls, Outreach
 #### When you schedule a phone call, meeting, hangout or any other interaction with anyone of interest to OGF it should be added as a ‘task’ under the ‘activities’ tab in Nimble. 
@@ -52,9 +52,10 @@
   * Finally, on the right side of the task window you can add any contacts, deals, and tags that are related to that particular outreach instance
 * **Completed Tasks**
   * After a task is *completed*, go back into the task and select *‘mark task as complete’* .
-   * If there is *another action required*, such as a follow up phone call/donor recognition letter you can also select ‘mark task as complete and create another’
-  * A *summary of the outcome of each completed task* should be logged as a note under the contact(s) that were involved in the outreach instance.
- * Grant writing/Grant applications are an exception because Nimble makes it difficult to add or edit documents. Grants should still be tasked in TeamWork
+    * If there is *another action required*, such as a follow up phone call/donor recognition letter you can also select ‘mark task as complete and create another’
+   * A *summary of the outcome of each completed task* should be logged as a note under the contact(s) that were involved in the outreach instance.
+* Grant writing/Grant applications are an exception because Nimble makes it difficult to add or edit documents. Grants should still be tasked in TeamWork
+
 ## Tags
 #### The purpose of tags is to indicate how a specific contact is connected to OGF.
  * There are tags for projects such as ‘envision’ and ‘madison’
