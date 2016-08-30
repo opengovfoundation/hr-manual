@@ -210,6 +210,9 @@ Used for comments on America Decoded sites. We try to respond to non-spam commen
 #### Passpack
 For password storage. Please create your own Passpack account and connect with the main organization account. Any time you create an account relevant to our work, please share the password with the organization on Passpack.
 
+#### Nimble
+Nimble is used as a place to store contacts, pending deals, and record communication for fundraising purposes. Find out more about how we use Nimble [here] (https://github.com/opengovfoundation/hr-manual/blob/master/platform-how-to-guides)
+
 ## Recommended Reading
 * Remote: Office Not Required ( specific chapters )
 * How to Collaborate Remotely
