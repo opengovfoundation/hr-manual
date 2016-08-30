@@ -1,10 +1,10 @@
-Nimble-- The User Guide
+# Nimble-- The User Guide
 
-# Introduction
-### The OpenGov Foundation uses the software Nimble to help facilitate fundraising. Along with being a directory with organizational tools for important contacts (people, organizations) related to OpenGov, Nimble has several functions to help organize and track stages of fundraising. The manner(s) in which Nimble should be utilized by OpenGov are documented in the following User Guide:
+## Introduction
+#### The OpenGov Foundation uses the software Nimble to help facilitate fundraising. Along with being a directory with organizational tools for important contacts (people, organizations) related to OpenGov, Nimble has several functions to help organize and track stages of fundraising. The manner(s) in which Nimble should be utilized by OpenGov are documented in the following User Guide:
 
-# Contacts: People, Organizations
-### When inputting a contact into Nimble, all of the known information about the particular contact should be placed in the appropriate subject field. Before saving a contact to Nimble consider:
+## Contacts: People, Organizations
+#### When inputting a contact into Nimble, all of the known information about the particular contact should be placed in the appropriate subject field. Before saving a contact to Nimble consider:
  * Is this person associated with a particular company or organization?
   * If yes and the company exists:
    * Open the contact for that particular company and select ‘add person’ to associate the person in the company.
@@ -18,12 +18,12 @@ Nimble-- The User Guide
   * *Example*: Meeting someone from American Legal at a conference vs. meeting someone from Sunlight Foundation
    * *American Legal* would be a **potential partner** while *Sunlight* would not.
 
- ## Special Case: Inquiries
+ ### Special Case: Inquiries
   * When someone contacts OpenGov with an *inquiry about a program that needs further attention,* they should be *saved as a contact* in Nimble.
   * After their contact is saved, they should have the tag ‘lead’ added to their contact and a *tag that corresponds with the program* he or she has an inquiry about
   * After the inquirer is added as a contact a task should be created indicated the next action.
 
-## After saving a contact into Nimble, consider:
+### After saving a contact into Nimble, consider:
  * **Tags** 
   * Almost *every new person* inputted as a contact into Nimble *should receive a tag based on* how they are related to OGF.
   * There are specific tags for people who work directly with OGF, such as the “Board of Directors”, “Board of Advisors”, “funder”, etc.
@@ -43,8 +43,8 @@ Nimble-- The User Guide
    1. Opening the organization’s contact and selecting ‘Add Person’.
    2. Adding a new contact and adding the organization in the correct field.
 
-# Phone Calls, Outreach
-### When you schedule a phone call, meeting, hangout or any other interaction with anyone of interest to OGF it should be added as a ‘task’ under the ‘activities’ tab in Nimble. 
+## Phone Calls, Outreach
+#### When you schedule a phone call, meeting, hangout or any other interaction with anyone of interest to OGF it should be added as a ‘task’ under the ‘activities’ tab in Nimble. 
  * **New Task**
   * You can create a new task by clicking the ‘task’ tab then the ‘new activity’ tab on the top left of the screen.
   * After opening a new task you are able to label the task as well as the assigned due date (similar to a TeamWork task).
@@ -56,8 +56,8 @@ Nimble-- The User Guide
   * A *summary of the outcome of each completed task* should be logged as a note under the contact(s) that were involved in the outreach instance.
  * Grant writing/Grant applications are an exception because Nimble makes it difficult to add or edit documents. Grants should still be tasked in TeamWork
 
-# Tags
-### The purpose of tags is to indicate how a specific contact is connected to OGF.
+## Tags
+#### The purpose of tags is to indicate how a specific contact is connected to OGF.
  * There are tags for projects such as ‘envision’ and ‘madison’
   * Anyone involved with these projects should have this tag.
  * There is a tag for funders to and partners of OGF.
@@ -66,14 +66,14 @@ Nimble-- The User Guide
  * **When adding a new tag**
   * Ask/discuss with the team before adding.
 
-# Deals
-### When a new donation is being *courted/received* , it should be added to the appropriate stage under the ‘deals’ tab.
+## Deals
+#### When a new donation is being *courted/received* , it should be added to the appropriate stage under the ‘deals’ tab.
  * When adding a new deal, a new task should be added to identify the next step in successfully obtaining a new donation.
  * Once this task is *completed*, the deal should *move into the next category* under the ‘deals’ tab, and a new task should be created for the next step.
  * This process should repeat until the donation is pledged.
  * The **purpose** of using this function is to keep closer track of potential donors and to have a team effort involved when it comes to completing the next task associated with that donation.
 
-# Activities 
+## Activities 
  * Tasks
   * The process for inputting a task can be found under *Phone Calls, Outreach*
   * When creating a task **relating to inquiry instances** from any of OpenGov’s software programs:
@@ -88,8 +88,8 @@ Nimble-- The User Guide
    * The agenda will show tasks and deals important to each specific day based on what was previously scheduled. 
   * ‘Important Contacts’ will appear at the top of the home page and can be ignored.
 
-# Conclusion
-### While the primary purpose of using Nimble in this capacity is for fundraising, a secondary purpose is to create accountability for each member of the team who logs a task or deal in Nimble. We are stronger as a team and having many sets of eyes on fundraising tasks is far greater than one set. This strategy will help OpenGov grow and receive more funding in the future.
+## Conclusion
+#### While the primary purpose of using Nimble in this capacity is for fundraising, a secondary purpose is to create accountability for each member of the team who logs a task or deal in Nimble. We are stronger as a team and having many sets of eyes on fundraising tasks is far greater than one set. This strategy will help OpenGov grow and receive more funding in the future.
 
-### Additionally, this document is living and can change and evolve as opinions about how OGF should be using Nimble change and evolve. 
+#### Additionally, this document is living and can change and evolve as opinions about how OGF should be using Nimble change and evolve. 
 
