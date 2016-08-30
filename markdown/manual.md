@@ -178,9 +178,6 @@ We meet once a week to go over our priorities for the week. We do our best to me
 #### Weekly Team Lunch
 * We have lunch together once a week, just for fun and to catch up.
 
-#### Tech Breakfasts
-Every week we hold a question-and-answer session where non-technical members of the team can ask our developers whatever tech-related questions they want. This is a great way to make sure everyone's on the same page regarding what we're building & but questions don't have to be about our work.
-
 #### Book Club
 We're a small team in an emerging field. Professional development and continuing education is an important part of all of our jobs. We foster team growth by holding a book club once a month. Anyone is welcome to suggest reading material; it's helpful for that person to facilitate discussion by bringing a few questions or observations from the reading to the discussion.
 
@@ -204,17 +201,11 @@ Please keep your availability updated on your Google Calendar for the organizati
 #### Google Docs
 For group collaboration on written materials, call agendas, our budget tracking document, etc. etc.
 
-#### Hackpad
-Alternative to above. Has a handy checklist feature. We also use this for hackathon coordination.
-
 #### GitHub
 All of our work is open source and up on GitHub. Most projects should have an Apache 2, MIT, or LGPL 3 license; most resources should be released as CC-0.
 
 #### Disqus
 Used for comments on America Decoded sites. We try to respond to non-spam comments within 24 hours.
-
-#### Uservoice
-For technical issues from Madison and State Decoded sites. We try to respond to questions and tech support issues within 24 hours.
 
 #### Passpack
 For password storage. Please create your own Passpack account and connect with the main organization account. Any time you create an account relevant to our work, please share the password with the organization on Passpack.
