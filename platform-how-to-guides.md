@@ -1,10 +1,10 @@
 Nimble-- The User Guide
 
 # Introduction
-The OpenGov Foundation uses the software Nimble to help facilitate fundraising. Along with being a directory with organizational tools for important contacts (people, organizations) related to OpenGov, Nimble has several functions to help organize and track stages of fundraising. The manner(s) in which Nimble should be utilized by OpenGov are documented in the following User Guide:
+### The OpenGov Foundation uses the software Nimble to help facilitate fundraising. Along with being a directory with organizational tools for important contacts (people, organizations) related to OpenGov, Nimble has several functions to help organize and track stages of fundraising. The manner(s) in which Nimble should be utilized by OpenGov are documented in the following User Guide:
 
 # Contacts: People, Organizations
-	When inputting a contact into Nimble, all of the known information about the particular contact should be placed in the appropriate subject field. Before saving a contact to Nimble consider:
+### When inputting a contact into Nimble, all of the known information about the particular contact should be placed in the appropriate subject field. Before saving a contact to Nimble consider:
  * Is this person associated with a particular company or organization?
   * If yes and the company exists:
    * Open the contact for that particular company and select ‘add person’ to associate the person in the company.
@@ -14,9 +14,9 @@ The OpenGov Foundation uses the software Nimble to help facilitate fundraising. 
    * Create a contact normally.
  * **Is this person a potential funder or business partner of The OpenGov Foundation?**
   * Nimble’s sole purpose is to help create and close fundraising deals. Only contacts pertinent to that cause should be saved as new contacts.
-   * **This includes inquiries that come in regarding of Madison/State Decoded/Free Law Founders/Open Sources/Assembly Works
-  * *Example* : Meeting someone from American Legal at a conference vs. meeting someone from Sunlight Foundation
-   * American Legal would be a **potential partner** while Sunlight would not.
+    * **This includes inquiries that come in regarding of Madison/State Decoded/Free Law Founders/Open Sources/Assembly Works
+  * *Example*: Meeting someone from American Legal at a conference vs. meeting someone from Sunlight Foundation
+   * *American Legal* would be a **potential partner** while *Sunlight* would not.
 
  ## Special Case: Inquiries
   * When someone contacts OpenGov with an *inquiry about a program that needs further attention,* they should be *saved as a contact* in Nimble.
@@ -36,7 +36,7 @@ The OpenGov Foundation uses the software Nimble to help facilitate fundraising. 
   * When you create a note, include your initials at the beginning to indicate 
   * This would be a place to add the link to an article/website authored by or about a contact.
   * This would be a place to record who introduced you to this contact (if someone else did) and/or the location that the introduction was made.
- * Organizations
+ * **Organizations**
   * When placing a new organization into Nimble the *name* of the organization and *website* should be added along with any other information about the organization
    * If you are adding a Congressional office or an office similar, include it as “The Office of Congressman….”
   * You can *associate other contacts* with an organization by either:
@@ -44,7 +44,7 @@ The OpenGov Foundation uses the software Nimble to help facilitate fundraising. 
    2. Adding a new contact and adding the organization in the correct field.
 
 # Phone Calls, Outreach
-When you schedule a phone call, meeting, hangout or any other interaction with anyone of interest to OGF it should be added as a ‘task’ under the ‘activities’ tab in Nimble. 
+### When you schedule a phone call, meeting, hangout or any other interaction with anyone of interest to OGF it should be added as a ‘task’ under the ‘activities’ tab in Nimble. 
  * **New Task**
   * You can create a new task by clicking the ‘task’ tab then the ‘new activity’ tab on the top left of the screen.
   * After opening a new task you are able to label the task as well as the assigned due date (similar to a TeamWork task).
@@ -52,12 +52,12 @@ When you schedule a phone call, meeting, hangout or any other interaction with a
   * Finally, on the right side of the task window you can add any contacts, deals, and tags that are related to that particular outreach instance
  * **Completed Tasks**
   * After a task is *completed*, go back into the task and select *‘mark task as complete’* .
-   * If there is *another action required* , such as a follow up phone call/donor recognition letter you can also select ‘mark task as complete and create another’
+   * If there is *another action required*, such as a follow up phone call/donor recognition letter you can also select ‘mark task as complete and create another’
   * A *summary of the outcome of each completed task* should be logged as a note under the contact(s) that were involved in the outreach instance.
  * Grant writing/Grant applications are an exception because Nimble makes it difficult to add or edit documents. Grants should still be tasked in TeamWork
 
 # Tags
-The purpose of tags is to indicate how a specific contact is connected to OGF.
+### The purpose of tags is to indicate how a specific contact is connected to OGF.
  * There are tags for projects such as ‘envision’ and ‘madison’
   * Anyone involved with these projects should have this tag.
  * There is a tag for funders to and partners of OGF.
@@ -67,9 +67,9 @@ The purpose of tags is to indicate how a specific contact is connected to OGF.
   * Ask/discuss with the team before adding.
 
 # Deals
-When a new donation is being *courted/received* , it should be added to the appropriate stage under the ‘deals’ tab.
+### When a new donation is being *courted/received* , it should be added to the appropriate stage under the ‘deals’ tab.
  * When adding a new deal, a new task should be added to identify the next step in successfully obtaining a new donation.
- * Once this task is *completed* , the deal should *move into the next category* under the ‘deals’ tab, and a new task should be created for the next step.
+ * Once this task is *completed*, the deal should *move into the next category* under the ‘deals’ tab, and a new task should be created for the next step.
  * This process should repeat until the donation is pledged.
  * The **purpose** of using this function is to keep closer track of potential donors and to have a team effort involved when it comes to completing the next task associated with that donation.
 
@@ -89,7 +89,7 @@ When a new donation is being *courted/received* , it should be added to the appr
   * ‘Important Contacts’ will appear at the top of the home page and can be ignored.
 
 # Conclusion
-While the primary purpose of using Nimble in this capacity is for fundraising, a secondary purpose is to create accountability for each member of the team who logs a task or deal in Nimble. We are stronger as a team and having many sets of eyes on fundraising tasks is far greater than one set. This strategy will help OpenGov grow and receive more funding in the future.
+### While the primary purpose of using Nimble in this capacity is for fundraising, a secondary purpose is to create accountability for each member of the team who logs a task or deal in Nimble. We are stronger as a team and having many sets of eyes on fundraising tasks is far greater than one set. This strategy will help OpenGov grow and receive more funding in the future.
 
-Additionally, this document is living and can change and evolve as opinions about how OGF should be using Nimble change and evolve. 
+### Additionally, this document is living and can change and evolve as opinions about how OGF should be using Nimble change and evolve. 
 
