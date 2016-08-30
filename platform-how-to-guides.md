@@ -42,6 +42,7 @@
   * You can *associate other contacts* with an organization by either:
    1. Opening the organization’s contact and selecting ‘Add Person’.
    2. Adding a new contact and adding the organization in the correct field.
+ 
 ## Phone Calls, Outreach
 #### When you schedule a phone call, meeting, hangout or any other interaction with anyone of interest to OGF it should be added as a ‘task’ under the ‘activities’ tab in Nimble. 
 * **New Task**
@@ -63,7 +64,9 @@
  * There are tags for cities with which we work closely. This group can expand as projects span different major cities.
 * **When adding a new tag**
   * Ask/discuss with the team before adding.
+ 
 ## Deals
+
 #### When a new donation is being *courted/received* , it should be added to the appropriate stage under the ‘deals’ tab.
 * When adding a new deal, a new task should be added to identify the next step in successfully obtaining a new donation.
 * Once this task is *completed*, the deal should *move into the next category* under the ‘deals’ tab, and a new task should be created for the next step.
