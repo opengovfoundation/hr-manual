@@ -63,8 +63,9 @@
  * There is a tag for funders to and partners of OGF.
  * There are tags for organizations with which we work closely (18F, Knight, Sunlight).
  * There are tags for cities with which we work closely. This group can expand as projects span different major cities.
-* **When adding a new tag**
-  * Ask/discuss with the team before adding.
+
+**When adding a new tag**
+   * Ask/discuss with the team before adding.
  
 ## Deals
 
