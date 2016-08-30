@@ -17,7 +17,8 @@
     * **This includes inquiries that come in regarding of Madison/State Decoded/Free Law Founders/Open Sources/Assembly Works
   * *Example*: Meeting someone from American Legal at a conference vs. meeting someone from Sunlight Foundation
    * *American Legal* would be a **potential partner** while *Sunlight* would not.
- #### Special Case: Inquiries
+
+#### Special Case: Inquiries
   * When someone contacts OpenGov with an *inquiry about a program that needs further attention,* they should be *saved as a contact* in Nimble.
   * After their contact is saved, they should have the tag ‘lead’ added to their contact and a *tag that corresponds with the program* he or she has an inquiry about
   * After the inquirer is added as a contact a task should be created indicated the next action.
