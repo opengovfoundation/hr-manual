@@ -74,6 +74,7 @@
 * Once this task is *completed*, the deal should *move into the next category* under the ‘deals’ tab, and a new task should be created for the next step.
 * This process should repeat until the donation is pledged.
 * The **purpose** of using this function is to keep closer track of potential donors and to have a team effort involved when it comes to completing the next task associated with that donation.
+
 ## Activities 
 * Tasks
  * The process for inputting a task can be found under *Phone Calls, Outreach*
