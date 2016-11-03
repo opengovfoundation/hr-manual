@@ -46,6 +46,8 @@
 ## Phone Calls, Outreach
 #### When you schedule a phone call, meeting, hangout or any other interaction with anyone of interest to OGF it should be added as a ‘task’ under the ‘activities’ tab in Nimble. 
 * **New Task**
+  * A new task should be created for an activity related specically related to an individual only.
+   * For example, a follow up phone call, coffee meeting, etc.
   * You can create a new task by clicking the ‘task’ tab then the ‘new activity’ tab on the top left of the screen.
   * After opening a new task you are able to label the task as well as the assigned due date (similar to a TeamWork task).
   * After labeling the task you can include any pertinent details below, such as the subject or goal of the outreach.
