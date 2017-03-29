@@ -70,7 +70,10 @@ All media inquiries regarding the company and its operations must be referred to
 * Dr. Anne Washington, Legal Data and Informatics
 * Joe Trippi, Political Campaigns
 * Karien Bezuidenhout, Shuttleworth Foundation
-* Maggie McKinley, Harvard University
+* Lanham Napier, BuildGroup
+* Aaron Bartnick
+* Brandon Andrews, Values Partnership
+* Dr. Anne Washington, George Mason University
 
 
 ## Benefits & Compensation
