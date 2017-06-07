@@ -144,11 +144,11 @@ Any time that you won't be available during usual office hours (9 PM–5 PM)—f
 
 
 ### Vacation & Leave Policy
-We are closed on all Federal holidays and during the week between Christmas and the New Year.  We also have a few additional days off, please see [the attached holidays list](holidays.md).
+We are closed on all Federal holidays and during the week between Christmas and the New Year.  We also have a few additional days off - please see [this holiday list](https://www.redcort.com/us-federal-bank-holidays/).
 
 We expect everyone to be able to get their work done in a timely fashion, and to not have to work on personal time.  Rested and refreshed people are better team members, and we strongly encourage enjoying life outside of the office.  Employees should take a *minimum* of two weeks of paid vacation per year, totaling 10 business days.
 
-To schedule time off, permission must be granted by your supervisor no less than 5 business days in advance, the dates and location of your travel must be put onto the team calendar, and the team should be notified via email.  To track time off, please track the vacation time in Harvest.
+To schedule time off, permission must be granted by your supervisor no less than 5 business days in advance, the dates and location of your travel must be put onto the team calendar, and the team should be notified via email.
 
 For personal, medical, or family leave, each employee is encouraged to take the current Family and Medical Leave Act maximum.
 
