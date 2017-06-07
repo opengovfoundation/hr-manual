@@ -1,16 +1,15 @@
 # hr-manual
 ## Human Resources Manual for reuse
 
-This is a series of documents we're using at the The OpenGov Foundation, created by ourselves with our laywers. Creating a strong human resources policy is an expensive, difficult task for most small organizations.
+This is a series of documents we're using at the The OpenGov Foundation, created by ourselves with our laywers. Creating a strong human resources policy is an expensive, difficult task for most small organizations, so feel free to build off our work to streamline the process for your organization.
 
 All of these documents are being released with open licenses, meaning they're **absolutely free to use**.  This will allow any person or organization - **for profit or not for profit** - to copy, edit, rewrite, and distribute them at no cost!  They are [Creative Commons CC0 Licensed](https://creativecommons.org/publicdomain/zero/1.0/), dedicating them to the public domain.
 
 There are a variety of documents here which may or may not be relevant to your organization, so feel free to use whichever of these are useful and ignore the rest.
 
-Included are:
+For now, we've included the following:
 
 * [HR Policy Manual](./markdown/manual.md) - The policy manual we're using at OpenGov Foundation, covering benefits, company policies, and more.
-* [Holidays](./markdown/holidays.md) - A full list of the days the organization is officially closed.
 
 Please suggest any changes that you think we should make, or contribute your own to the repo!
 
