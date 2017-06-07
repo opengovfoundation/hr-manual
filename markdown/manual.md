@@ -1,6 +1,6 @@
 # Policy Manual
 
-Last Updated: August 24, 2016
+Last Updated: June 7, 2017
 
 ## Our Mission
 We open up laws, legislation, and the lawmaking process online so that as many people as possible can see, understand, and shape the policies that affect their lives.
@@ -136,13 +136,12 @@ To seek approval for a professional development opportunity, please submit the f
 
 Employees are expected to work a minimum of 40 hours per week, but we are flexible on where and when that work gets done.
 
-Employees should check in on Teamwork by 11 AM Eastern Time each week day with an update of their work plan for the day. Communication is vital to the success of our team; therefore, team members are expected to be reasonably accessible by phone, Slack, and email between the hours of 11 AM–4 PM.
+Employees should check in on Slack by 9:30 AM Eastern Time each weekday with an update of their work plan for the day. Communication is vital to the success of our team; therefore, team members are expected to be reasonably accessible by phone, Slack, and email between the hours of 11 AM–4 PM.
 
 Employees are able to work from home and/or remotely, as long as they are able to participate in all necessary meetings.
 
 Any time that you won't be available during usual office hours (9 PM–5 PM)—for appointments, sick time, vacation, etc.—should be put on the calendar, and an email must be sent to the employee's supervisor.  For non-emergency medical absences, please notify your supervisor at least 48 hours in advance.
 
-We track time using Harvest. Hours worked must be recorded in Harvest by the end of each week (Sunday evening).
 
 ### Vacation & Leave Policy
 We are closed on all Federal holidays and during the week between Christmas and the New Year.  We also have a few additional days off, please see [the attached holidays list](holidays.md).
@@ -186,11 +185,11 @@ We're a small team in an emerging field. Professional development and continuing
 
 ### Tools & Services We Use
 
-#### Teamwork
-For daily status updates, project planning, and task management. If you need another team member to do something, please assign them a task on Teamwork. Tech support issues on America Decoded sites should be logged as tasks under the "State Decoded" project.
+#### Flow
+For project planning and task management. If you need another team member to do something, please assign them a task on Flow. Tech support issues on America Decoded sites should be logged as tasks under the "State Decoded" project.
 
 #### Slack
-For team chat.
+For team chat and daily status updates.
 
 #### UberConference
 For group calls. Please enter calls on the Phone Conference calendar to avoid double-booking the line.
