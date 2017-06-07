@@ -1,6 +1,6 @@
 # Policy Manual
 
-Last Updated: August 24, 2016
+Last Updated: June 7, 2017
 
 ## Our Mission
 We open up laws, legislation, and the lawmaking process online so that as many people as possible can see, understand, and shape the policies that affect their lives.
@@ -51,7 +51,6 @@ All media inquiries regarding the company and its operations must be referred to
 
 ### Staff
 * Seamus Kraft, Co-Founder and Executive Director
-* Meag Doherty, Chief of Staff
 * Seth Etter, Senior Developer
 * Tanner Doshier, Senior Developer
 * Mary Kate Mezzetti, Intern
@@ -60,10 +59,13 @@ All media inquiries regarding the company and its operations must be referred to
 * Darrell Issa, Chairman
 * Seamus Kraft, President and Vice-Chairman
 * Rich Hirshberg, Treasurer
-* James Lacy, Counsel
+* Jim Lacy, Counsel
+* Phaedra Chrousos, Member
 * Tom Davis, Member
-* Abhi Nemani, Member
 * Larry Brady, Member
+* Laurent Crenshaw, Member
+* Abhi Nemani, Member
+* Jo-Marie St. Martin, Member
 
 ### Board of Advisers
 * Scout Addis, Design
@@ -136,20 +138,19 @@ To seek approval for a professional development opportunity, please submit the f
 
 Employees are expected to work a minimum of 40 hours per week, but we are flexible on where and when that work gets done.
 
-Employees should check in on Teamwork by 11 AM Eastern Time each week day with an update of their work plan for the day. Communication is vital to the success of our team; therefore, team members are expected to be reasonably accessible by phone, Slack, and email between the hours of 11 AM–4 PM.
+Employees should check in on Slack by 9:30 AM Eastern Time each weekday with an update of their work plan for the day. Communication is vital to the success of our team; therefore, team members are expected to be reasonably accessible by phone, Slack, and email between the hours of 11 AM–4 PM.
 
 Employees are able to work from home and/or remotely, as long as they are able to participate in all necessary meetings.
 
 Any time that you won't be available during usual office hours (9 PM–5 PM)—for appointments, sick time, vacation, etc.—should be put on the calendar, and an email must be sent to the employee's supervisor.  For non-emergency medical absences, please notify your supervisor at least 48 hours in advance.
 
-We track time using Harvest. Hours worked must be recorded in Harvest by the end of each week (Sunday evening).
 
 ### Vacation & Leave Policy
-We are closed on all Federal holidays and during the week between Christmas and the New Year.  We also have a few additional days off, please see [the attached holidays list](holidays.md).
+We are closed on all Federal holidays and during the week between Christmas and the New Year.  We also have a few additional days off - please see [this holiday list](https://www.redcort.com/us-federal-bank-holidays/).
 
 We expect everyone to be able to get their work done in a timely fashion, and to not have to work on personal time.  Rested and refreshed people are better team members, and we strongly encourage enjoying life outside of the office.  Employees should take a *minimum* of two weeks of paid vacation per year, totaling 10 business days.
 
-To schedule time off, permission must be granted by your supervisor no less than 5 business days in advance, the dates and location of your travel must be put onto the team calendar, and the team should be notified via email.  To track time off, please track the vacation time in Harvest.
+To schedule time off, permission must be granted by your supervisor no less than 5 business days in advance, the dates and location of your travel must be put onto the team calendar, and the team should be notified via email.
 
 For personal, medical, or family leave, each employee is encouraged to take the current Family and Medical Leave Act maximum.
 
@@ -186,11 +187,11 @@ We're a small team in an emerging field. Professional development and continuing
 
 ### Tools & Services We Use
 
-#### Teamwork
-For daily status updates, project planning, and task management. If you need another team member to do something, please assign them a task on Teamwork. Tech support issues on America Decoded sites should be logged as tasks under the "State Decoded" project.
+#### Flow
+For project planning and task management. If you need another team member to do something, please assign them a task on Flow. Tech support issues on America Decoded sites should be logged as tasks under the "State Decoded" project.
 
 #### Slack
-For team chat.
+For team chat and daily status updates.
 
 #### UberConference
 For group calls. Please enter calls on the Phone Conference calendar to avoid double-booking the line.
