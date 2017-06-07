@@ -51,7 +51,6 @@ All media inquiries regarding the company and its operations must be referred to
 
 ### Staff
 * Seamus Kraft, Co-Founder and Executive Director
-* Meag Doherty, Chief of Staff
 * Seth Etter, Senior Developer
 * Tanner Doshier, Senior Developer
 * Mary Kate Mezzetti, Intern
@@ -60,10 +59,13 @@ All media inquiries regarding the company and its operations must be referred to
 * Darrell Issa, Chairman
 * Seamus Kraft, President and Vice-Chairman
 * Rich Hirshberg, Treasurer
-* James Lacy, Counsel
+* Jim Lacy, Counsel
+* Phaedra Chrousos, Member
 * Tom Davis, Member
-* Abhi Nemani, Member
 * Larry Brady, Member
+* Laurent Crenshaw, Member
+* Abhi Nemani, Member
+* Jo-Marie St. Martin, Member
 
 ### Board of Advisers
 * Scout Addis, Design
