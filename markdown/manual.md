@@ -94,10 +94,10 @@ Annual cost of living increases will be combined with any merit increases descri
 Additional raises and bonuses may be considered at other times to account for special circumstances, such as extraordinary performance, a change in position and/or an increase in responsibilities.
 
 
-## Covered Expenses & Reimbursements
+## Reimbursable Expenses
 
-### Covered Expenses
-The organization will reimburse pre-approved, work-related expenses.  Any expenditure totaling more than $1,000—including cumulative expenses like software subscriptions—must be pre-approved by the Board of Directors and Executive Director.  Sub-$1,000 reimbursable expenses which do not require BOD approval include but are not limited to:
+### What's Covered
+The organization will reimburse pre-approved, work-related expenses.  Any expenditure totaling more than $1,000—including cumulative expenses like software subscriptions—must be pre-approved by the Board of Directors and Executive Director.  Sub-$1,000 reimbursable expenses which do not require Board approval include but are not limited to:
 
 * Travel between work meetings and the office.
 * Travel to, from, and during conferences and events.
@@ -105,116 +105,157 @@ The organization will reimburse pre-approved, work-related expenses.  Any expend
 * Business-meeting meals and drinks.
 * Office supplies.
 * Organization-specific subscriptions and/or software.
-* Expenses stemming from events organized by the organization
+* Expenses associated with organization sponsored events.
 
-Employees are expected to travel coach class when traveling by air, book reasonably-priced hotels and not spend excessively on meals and other travel expenses.
+Employees are expected to travel economy class when traveling by air, book reasonably-priced hotels and not spend excessively on meals and other travel expenses.
 
-### Reimbursements
-You are strongly encouraged to file reimbursement requests as soon as you incur the expenses, for example, within the week following a business trip or conference.  Expenses are usually reimbursed within a week of approval and submission.  Each reimbursement request must be sent to the Executive Director, who will review, approve, then submit for payment to the Chairman of the Board of Directors and our bookkeeper.  Each reimbursement request must include these three things:
+### How to File a Reimbursement Request
+You are strongly encouraged to file reimbursement requests as soon as you incur the expenses.  Expenses are usually reimbursed within a week of approval and submission.  Each reimbursement request must be sent to the Executive Director, who will review, approve, then submit for payment to appropriate person(s) for execution.  Each reimbursement request must include:
 
-1. A complete and accurate spreadsheet expense report totaling and classifying your expenditures.
-2. A complete and accurate cover letter to the Chairman of the Board of Directors requesting reimbursement.
-3. A PDF document that is less than 10MB in size containing receipts for each of the expenses for which you are seeking reimbursement.
+* An image or PDF file that containing receipts for each of the expenses for which you are seeking reimbursement.
+* A classification of each expense in the one of the following categories: `Travel - In Town`, `Travel - Out of Town`, `Conference`, `Food and Drink`, `Supplies`, `Subscriptions`, or `Event Hosting`.
+* A short note for describing each expense (e.g. who, what, where, when, why)
 
-### Professional Development
-We strongly encourage employees to explore professional development options. The organization will cover one half of pre-approved costs associated with professional development expenditures. All professional development expenses require both Executive Director and Board of Directors approval.
+## Professional Development
+We strongly encourage employees to explore professional development options. The organization will endeavor to set aside an amount equal to 2.0% (at minimum) of its planned operating budget to fund professional development activities.  These funds shall be distributed as equitably as possible to all organization employees.
 
 Potential professional development opportunities include, but are not limited to:
 * Attending relevant professional conferences.
 * Tuition for relevant classes.
 * Books on relevant topics.
 
-To seek approval for a professional development opportunity, please submit the following items to your supervisor, who will review and discuss them with you, and share them with the Board of Directors.
-* A short memo outlining the professional development opportunity you are seeking, how it would support your growth, how it would benefit the organization.
+To seek approval for a professional development opportunity, please submit the following items to your supervisor, who will review and discuss them with you, and if requiring an expenditure greater than $999, share them with the Board of Directors for approval.
+* A description of the professional development opportunity, how it would support your growth, and how it would benefit the organization.
 * The total cost of the opportunity, and any relevant payment dates and methods.
 * The time the opportunity would require (dates, times, including travel) as well as the location.
 
-
 ## Schedule, Hours & Vacation
 
-### Office Hours, Daily Schedule & Absences
+### Our Schedule
 
-Employees are expected to work a minimum of 40 hours per week, but we are flexible on where and when that work gets done.
+Employees are expected to work 40 hours per week, but we are flexible on where and when that work gets done.
 
-Employees should check in on Teamwork by 11 AM Eastern Time each week day with an update of their work plan for the day. Communication is vital to the success of our team; therefore, team members are expected to be reasonably accessible by phone, Slack, and email between the hours of 11 AM–4 PM.
+Employees are expected to attend all meetings to which they have been invited as a "required" participant. Communication is vital to the success of our team; therefore, team members are expected to be reasonably accessible by phone, Slack, and email between the hours of 11 AM–4 PM.
 
-Employees are able to work from home and/or remotely, as long as they are able to participate in all necessary meetings.
+Employees are able to work from home and/or remotely and the organization will make all efforts to ensure a comparable work experience regardless of where an employee is located.
 
-Any time that you won't be available during usual office hours (9 PM–5 PM)—for appointments, sick time, vacation, etc.—should be put on the calendar, and an email must be sent to the employee's supervisor.  For non-emergency medical absences, please notify your supervisor at least 48 hours in advance.
-
-We track time using Harvest. Hours worked must be recorded in Harvest by the end of each week (Sunday evening).
+Any time that you won't be available during the regular work day (9 PM to 5 PM locally) should be put on your calendar the organization's calendar.
 
 ### Vacation & Leave Policy
-We are closed on all Federal holidays and during the week between Christmas and the New Year.  We also have a few additional days off, please see [the attached holidays list](holidays.md).
+We are closed on all [Federal holidays](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/holidays-work-schedules-and-pay), the day after Thanksgiving, and during the week between Christmas and the New Year.  We also have a few additional days off, please see [the attached holidays list](holidays.md).
 
-We expect everyone to be able to get their work done in a timely fashion, and to not have to work on personal time.  Rested and refreshed people are better team members, and we strongly encourage enjoying life outside of the office.  Employees should take a *minimum* of two weeks of paid vacation per year, totaling 10 business days.
+We expect everyone to be able to get their work done in a timely fashion, and to not have to work on personal time.  Rested and refreshed people are better team members, and we strongly encourage enjoying life outside of the office.  
 
-To schedule time off, permission must be granted by your supervisor no less than 5 business days in advance, the dates and location of your travel must be put onto the team calendar, and the team should be notified via email.  To track time off, please track the vacation time in Harvest.
+*Employees should take a minimum of two weeks of paid vacation per year, totaling 10 business days.*
 
-For personal, medical, or family leave, each employee is encouraged to take the current Family and Medical Leave Act maximum.
+For personal, medical, or family leave, each employee is encouraged to take the current [Family and Medical Leave Act](https://www.dol.gov/general/topic/benefits-leave/fmla) maximum.
 
 For maternity and paternity leave, employees are encouraged to take up to 16 weeks of leave.
 
+#### Taking Leave
 Employees must inform your supervisor in writing as far in advance as is reasonable for staff and project planning purposes.  All extended periods of leave must be discussed with the Executive Director.
+
+To schedule time off, permission must be granted by your supervisor no less than 5 business days in advance, the dates your travel must be put onto the team calendar, and the team should be notified via email.
 
 ### Sick Days
 Please notify the team if you are sick and need to take the day off. Even if you are feeling well enough to work, please work from home until you are completely recovered, to avoid spreading illness through our small office.
 
-
 ## How We Work
 
 ### Email Accounts, Document Sharing & Password Sharing
-We will set you up with an organization Gmail account.  This will provide you access to our email, calendar, and Google+ accounts.  Please use this for all work-related correspondence, scheduling, etc.  Personal accounts should not be used for work-related activities.
+We will set you up with an organizational Google Suite account.  This will provide you access to all the basic necessities like email, calendar, and shared storage.  
 
-You will be granted access to our shared passwords in Passpack.  All passwords that need to be shared with the organization must be shared using Passpack, you must not share them via email or other insecure methods.
+Please use your organizational email address for all work-related correspondence, scheduling, etc.  Personal accounts should not be used for work-related activities.
+
+You will be granted access to our shared passwords in Passpack.  All passwords that need to be shared with the organization must be shared using Passpack or a secure service such as [Toaster](https://fugacious.18f.gov/). Passwords should not be shared via email or other insecure methods.
 
 ### Calendars
 Please keep your availability updated on your Google calendar account associated with the organization - please don't use your personal account.  Please record any meetings, vacation time, appointments, and anything else that your teammates might need to schedule around.  Feel free to schedule meetings with other coworkers on the Google calendar.
 
-To help prevent resource conflicts, if you are using the UberConference number or the appear.in video chat, please add your call to the appropriate calendar (Phone Conference, Video Conference, etc), which we will share with your work account.
-
 ### Regular Meetings
+All meetings must be held in a manner that allows for full participation of all employees, regardless of such individual variables such as geographic location.
 
-#### Weekly Priorities-Setting Meeting
-We meet once a week to go over our priorities for the week. We do our best to meet in person. If you cannot attend in person, please notify the group and call in via appear.in.  This is a good time to ask for help from the group and to make sure that we are all using our time wisely.
+#### Daily Standup(s)
+To better coordinate organizational or product development efforts, one or more daily standups may be scheduled, each lasting no longer than 20 minutes.  
 
-#### Weekly Team Lunch
-* We have lunch together once a week, just for fun and to catch up.
+The sole purpose of the daily standup is to provide a short summary of what you focused on the previous day, what you are planning on focusing on today, and, critically, identification of any obstacles or blockers that may prevent you from completing a task.  
 
-#### Book Club
-We're a small team in an emerging field. Professional development and continuing education is an important part of all of our jobs. We foster team growth by holding a book club once a month. Anyone is welcome to suggest reading material; it's helpful for that person to facilitate discussion by bringing a few questions or observations from the reading to the discussion.
+Once each participate has completed their summary, the standup may be ended.  Should a topic be raised that requires more in depth discussion, a separate meeting should be scheduled.
+
+#### Weekly All Hands
+We meet once a week as a complete team for no more than 30 minutes to discuss organization-level topics, share important updates, and, most importantly, celebrate our work through informal talks or product demos.  Should a topic be raised that requires more in depth discussion, a separate meeting should be scheduled.
+
+Participation in the weekly standup is required of all organization employees and must allow for the full participation of all employees regardless of geographic location.
+
+#### Book Clubs, "Family" Meals, and Other Informal Rituals
+We are a small, close knit team.  To maintain a balanced, healthy, and fun organization, we encourage the formation of informal gatherings and groups. Any employee my sponsor an informal gathering or group so as long it is are open to all employees and supports organizational health.  
+
+As in any endeavor, it is critical that any informal gathering or group clearly define its purpose and the expectation placed upon its participants.
 
 ### Tools & Services We Use
 
-#### Teamwork
-For daily status updates, project planning, and task management. If you need another team member to do something, please assign them a task on Teamwork. Tech support issues on America Decoded sites should be logged as tasks under the "State Decoded" project.
+#### Used by Most Everyone
 
-#### Slack
-For team chat.
+##### Slack
+For team chat. And sharing cat videos.
 
-#### UberConference
-For group calls. Please enter calls on the Phone Conference calendar to avoid double-booking the line.
+##### UberConference
+For group phone calls.
 
-#### Google Hangouts
-For group video chats. Please append a Google Hangout link to any calendar invite you create and share.
+##### Google Mail
+Our email platform.
 
-#### Google Calendar
-Please keep your availability updated on your Google Calendar for the organization.
+##### Google Calendar
+Our calendar platform.
 
-#### Google Docs
-For group collaboration on written materials, call agendas, our budget tracking document, etc. etc.
+##### Google Drive (Documents, Sheets, Slides, etc...)
+For composition of and group collaboration on written materials.
 
-#### GitHub
-All of our work is open source and up on GitHub. Most projects should have an Apache 2, MIT, or LGPL 3 license; most resources should be released as CC-0.
+##### Google Hangouts
+For group video calls. When you create a new meeting in Google calendar, a video Hangout will be automatically created.
 
-#### Disqus
-Used for comments on America Decoded sites. We try to respond to non-spam comments within 24 hours.
+##### GitHub
+Where we maintain our `git`-based organizational efforts.  Most projects should have an Apache 2, MIT, or LGPL 3 license; most resources should be released as CC-0.
 
-#### Passpack
+##### Passpack
 For password storage. Please create your own Passpack account and connect with the main organization account. Any time you create an account relevant to our work, please share the password with the organization on Passpack.
 
-#### Nimble
-Nimble is used as a place to store contacts, pending deals, and record communication for fundraising purposes. Find out more about how we use Nimble [here](https://github.com/opengovfoundation/hr-manual/blob/master/platform-how-to-guides.md).
+#### Used Mostly by Our Delivery Teams
+
+##### Phabricator
+The engineering team's preferred software development platform.
+
+##### AirTable
+Great for organizing lots of data collaborative when a spreadsheet just won't cut it.
+
+##### Workflowy
+For research management and collaboration.
+
+##### Wordpress
+For maintaining our organization's web site.
+
+##### Rollbar
+Our exception monitoring and logging platform.
+
+##### CircleCI
+Our automated testing and deployment platform.
+
+#### Used Mostly by Our Management and Operations Team
+
+##### Flow
+For management and operations task herding, including assignment and monitoring.  Also available delivery teams for product/project management purposes.
+
+##### Nimble
+Nimble is used as a place to store contacts, pending deals, and record communication for fundraising purposes. Find out more about how we use Nimble [here](platform-how-to-guides.md).
+
+##### Harvest
+At present, only used for invoice generation.
+
+##### Expensify
+How we organize our expense documentation and generate reimbursement requests.
+
+##### Mailchimp
+Our email campaign platform.
 
 ## Recommended Reading
 * Remote: Office Not Required ( specific chapters )
@@ -225,4 +266,3 @@ Nimble is used as a place to store contacts, pending deals, and record communica
 * Dealing with Excuses
 * The Lean Startup
 * Don't Make Me Think
-
