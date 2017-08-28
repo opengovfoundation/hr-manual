@@ -155,7 +155,7 @@ For maternity and paternity leave, employees are encouraged to take up to 16 wee
 #### Taking Leave
 Employees must inform your supervisor in writing as far in advance as is reasonable for staff and project planning purposes.  All extended periods of leave must be discussed with the Executive Director.
 
-To schedule time off, permission must be granted by your supervisor no less than 5 business days in advance, the dates your travel must be put onto the team calendar, and the team should be notified via email.
+To schedule time off, permission must be granted by your supervisor no less than 5 business days in advance, the dates your travel must be put onto the team calendar (just invite sayhello [at] opengovfoundation.org), and the team should be notified via email.
 
 ### Sick Days
 Please notify the team if you are sick and need to take the day off. Even if you are feeling well enough to work, please work from home until you are completely recovered, to avoid spreading illness through our small office.
@@ -188,74 +188,14 @@ We meet once a week as a complete team for no more than 30 minutes to discuss or
 Participation in the weekly standup is required of all organization employees and must allow for the full participation of all employees regardless of geographic location.
 
 #### Book Clubs, "Family" Meals, and Other Informal Rituals
-We are a small, close knit team.  To maintain a balanced, healthy, and fun organization, we encourage the formation of informal gatherings and groups. Any employee my sponsor an informal gathering or group so as long it is are open to all employees and supports organizational health.  
+We are a small, close knit team.  To maintain a balanced, healthy, and fun organization, we encourage the formation of informal gatherings and groups. Any employee may sponsor an informal gathering or group so as long it is are open to all employees and supports organizational health.  
 
 As in any endeavor, it is critical that any informal gathering or group clearly define its purpose and the expectation placed upon its participants.
 
 ### Tools & Services We Use
+We utilize an ever-changing array of tools and platforms to get our work down. Employees are expected to familiarize themselves with all tools that are applicable to their work areas.  Trial and adoption of new tools is encouraged and should be done in a collaborative manner with your colleagues to encourage operational alignment and discourage tool siloing.
 
-#### Used by Most Everyone
-
-##### Slack
-For team chat. And sharing cat videos.
-
-##### UberConference
-For group phone calls.
-
-##### Google Mail
-Our email platform.
-
-##### Google Calendar
-Our calendar platform.
-
-##### Google Drive (Documents, Sheets, Slides, etc...)
-For composition of and group collaboration on written materials.
-
-##### Google Hangouts
-For group video calls. When you create a new meeting in Google calendar, a video Hangout will be automatically created.
-
-##### GitHub
-Where we maintain our `git`-based organizational efforts.  Most projects should have an Apache 2, MIT, or LGPL 3 license; most resources should be released as CC-0.
-
-##### Passpack
-For password storage. Please create your own Passpack account and connect with the main organization account. Any time you create an account relevant to our work, please share the password with the organization on Passpack.
-
-#### Used Mostly by Our Delivery Teams
-
-##### Phabricator
-The engineering team's preferred software development platform.
-
-##### AirTable
-Great for organizing lots of data collaborative when a spreadsheet just won't cut it.
-
-##### Workflowy
-For research management and collaboration.
-
-##### Wordpress
-For maintaining our organization's web site.
-
-##### Rollbar
-Our exception monitoring and logging platform.
-
-##### CircleCI
-Our automated testing and deployment platform.
-
-#### Used Mostly by Our Management and Operations Team
-
-##### Flow
-For management and operations task herding, including assignment and monitoring.  Also available delivery teams for product/project management purposes.
-
-##### Nimble
-Nimble is used as a place to store contacts, pending deals, and record communication for fundraising purposes. Find out more about how we use Nimble [here](platform-how-to-guides.md).
-
-##### Harvest
-At present, only used for invoice generation.
-
-##### Expensify
-How we organize our expense documentation and generate reimbursement requests.
-
-##### Mailchimp
-Our email campaign platform.
+We do our best to keep our [tool and platform](tools.md)] list up to date.
 
 ## Recommended Reading
 * Remote: Office Not Required ( specific chapters )
