@@ -1,51 +1,98 @@
 # Policy Manual
 
-Last Updated: August 24, 2016
+Last Updated: YYYY-MM-DD
 
 ## Our Mission
-We open up laws, legislation, and the lawmaking process online so that as many people as possible can see, understand, and shape the policies that affect their lives.
-
+To make the process of lawmaking easier, simpler, and more effective.  
 
 ## Vision
-We are former and current government workers, designers, technologists, and concerned citizens who believe in building with, not for, and in partnering directly with users both in and outside of government to find solutions that help bridge the gap between the two. We're focused on long-term solutions, building tools and processes that change the culture of how governments operate.
+To serve as a reliable product development partner for legislators who want to make systems of governance more open, accessible, and functional.  Our products are incrementally built to address meaningful, well-known problems and are focused intently on serving user needs over stakeholder interests.
 
-Everything we create is open source, free for anyone to take and use.
+## Values
+In our work, we will strive to uphold these values:
+- Open source first
+- Collaborative
+- User driven
+- Inclusive design
+- Incremental development
+- Actionable problems
+- Well documented
+- Showing, not telling
+- Deeds over words
 
-We're building a national network of people like us and the Free Law Founders—to share resources and expertise around solving shared challenges in modernizing the lawmaking process.
+## Creating a Safe, Productive Workplace
 
+### Equal Employment, Non-Discrimination and Reasonable Accommodation
+The OpenGov Foundation is committed to equal employment opportunity.  
 
-## Culture & Compliance
+We will not discriminate against employees or applicants for employment on any legally recognized basis including, but not limited to race, religion, color, sex (with or without sexual conduct and including pregnancy and sexual orientation involving transgender status/gender identity, and sex-stereotyping), national origin, age, disability (physical or mental), genetic information, sexual orientation, or any other protected class under federal, state or local law, *as well as* gender identity, parental status, marital status, political affiliation, gender expression, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, or clothing.  
 
-### Equal Employment Opportunity Disclosure & Compliance with the Americans with Disabilities Act (ADA)
-The OpenGov Foundation is committed to equal employment opportunity.  We will not discriminate against employees or applicants for employment on any legally recognized basis including, but not limited to race, religion, color, sex (with or without sexual conduct and including pregnancy and sexual orientation involving transgender status/gender identity, and sex-stereotyping), national origin, age, disability (physical or mental), genetic information, sexual orientation, or any other protected class under federal, state or local law, *as well as* gender identity, parental status, marital status, political affiliation, gender expression, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, or clothing.  We are committed to providing equal employment opportunities to qualified individuals with disabilities.  This may include providing reasonable accommodation where appropriate in order for an otherwise qualified individual to perform the essential functions of the job.
+We are committed to providing equal employment opportunities to qualified individuals with disabilities.  This may include providing reasonable accommodation where appropriate in order for an otherwise qualified individual to perform the essential functions of the job.
 
 ### Harassment, Bullying, Violence in the Workplace Policy
 We prohibit harassment of one employee by another employee, supervisor or third party for any reason based on a protected class including but not limited to: veteran status, uniform member status, race, color, religion, sex, national origin, sexual orientation, physical or mental disability genetic information or any other protected class under federal, state or local law, *as well as* gender identity, parental status, marital status, political affiliation, gender expression, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, or clothing. Harassment of third parties by our employees is also prohibited.
 
 The following are considered a protected class: race; religious creed; color; national origin; ancestry; physical disability; mental disability; medical condition, including genetic characteristics; marital status; sex; pregnancy, childbirth or related medical conditions; actual or perceived gender; gender identity; sexual orientation; civil air patrol membership; service in the military forces and age (40 or over). Included in the definition of each protected category is the perception of membership in a protected category and an individual's association with an actual or perceived member of a protected category.
 
-The purpose of this policy is not to regulate the personal morality of employees. It is to ensure that in the workplace, no employee harasses another for any reason or in any manner. The conduct prohibited by this policy includes conduct in any form including but not limited to e-mail, voice mail, chat rooms, social networking, internet use or history, text messages, pictures, images, writings, words or gestures.
+The purpose of this policy is to ensure that in the workplace, no employee harasses another for any reason or in any manner. The conduct prohibited by this policy includes conduct in any form including but not limited to e-mail, voice mail, chat rooms, social networking, internet use or history, text messages, pictures, images, writings, words or gestures.
 
-While it is not easy to define precisely what harassment is, it includes: slurs, epithets, threats, derogatory comments or visual depictions, unwelcome jokes and teasing. For reasonable guidelines on harassment and boundaries, please read [18F's Code of Conduct](https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md) and [GSA's Policy on Harassment](http://www.gsa.gov/portal/directive/d0/content/663070).
+While it is not easy to define precisely what harassment is, it includes: slurs, epithets, threats, derogatory comments or visual depictions, unwelcome jokes and teasing.
 
+For authoritative guidance on legally prohibited harassment and boundaries, please consult the [U.S. Equal Employment Opportunity Commission](https://www.eeoc.gov/laws/index.cfm).
 
-Any employee who believes that (s)he has been harassed should report the situation immediately to one of the following members of management: Executive Director, Treasurer or Chairman of the Board of Directors. If an employee makes a report to any of these members of management and the manager either does not respond or does not respond in a manner the employee deems satisfactory or consistent with this policy, the employee is required to report the situation to one of the other members of management designated in this policy to receive complaints.
+In addition to prohibiting harassment in these forms, we also consider the following unacceptable:
 
-The company will investigate all such reports as confidentially as possible. Adverse action will not be taken against an employee because he or she, in good faith, reports or participates in the investigation of a violation of this policy. Violations of this policy are not permitted and may result in disciplinary action, up to and including discharge.
+- Making negative or offensive remarks, regardless of to whom they are directed, based on:
+    - gender expression,
+    - mental illness,
+    - socioeconomic status or background,
+    - neuro(a)typicality,
+    - physical appearance,
+    - body size, or
+    - clothing.
 
+ - Touching people without their affirmative consent.
 
-### Drug & Alcohol-Free Workplace Statement
-The unlawful or improper presence or use of controlled substances or alcohol in the workplace presents a danger to all employees.  Employees are prohibited from reporting to work or working while using illegal or unauthorized substances.
+ - Repeatedly and unnecessarily disrupting formal or informal gatherings or meetings, whether in person or within a chatroom setting.
+
+ - Retaliating against anyone who files a complaint that someone has violated the provisions of this manual.
+
+ - Intentionally or repeatedly referring to people in a way that rejects the validity of their gender identity; for instance, by knowing and intentional use of incorrect pronouns or forms of address.
+
+ - Engaging in behaviors that marginalize people or communicate hostile, derogatory, or negative beliefs. Examples include:
+    - Patronizing or belittling a person or group,
+    - Repeatedly interrupting or talking over someone else,
+    - Pedantic corrections that don’t add value,
+    - Expressing an assumption that persons or groups need concepts defined or explained to them without first asking if they do,
+    - Using unsubstantiated language that creates or furthers a belief which diminishes the value or contributions of a person or group,
+    - Employing racially or ethnically charged language to describe a person or thing,
+    - Referring to an individual in a way that demeans or challenges the validity of any aspect of their personal identity, or
+    - Mocking someone’s real or perceived accent or first language.
+
+### Reporting and Resolution of Violations
+Any employee who believes they have been harassed or believes they have witnessed another member of our organization violate the terms of this document should report the situation immediately to one of the following members of management: Executive Director, Treasurer or Chairman of the Board of Directors. If an employee makes a report to one of these persons and the employee does not receive a satisfactory response, the employee shall report the situation to one of the other designated persons to receive complaints.
+
+The organization will investigate all such reports as confidentially as possible. Adverse action will not be taken against an employee because he or she, in good faith, reports or participates in the investigation of a violation of this policy. Violations of this policy are not permitted and may result in disciplinary action, up to and including discharge.
+
+### Drug & Alcohol Policy
+The unlawful or improper presence or use of controlled substances or alcohol in the workplace presents a danger to all employees.  All members of the organization are prohibited from reporting to work or working while using illegal or unauthorized substances.
+
+Our organization recognizes that drug or alcohol abuse are serious medical conditions and should be treated as such. Therefore, we shall provide all appropriate organizational support and assistance to those within the organization who request it.  We will also seek out and retain a employer-sponsored health insurance plan that provide drug and alcohol treatment services.
 
 ### Conflict of Interest
-A company's reputation for integrity is its most valuable asset and is directly related to the conduct of its employees.  Therefore, employees must never use their positions with the company for private gain, to advance personal interests or to obtain favors or benefits for themselves, member of their families or any other individuals, corporations of business entities.
+Employees must never use their positions with the organization for private gain, to advance personal interests or to obtain favors or benefits for themselves, member of their families or any other individuals, corporations of business entities. Furthermore, employees should avoid situations where a *perception* of a conflict of interest could be created.
+
+Should you encounter a situation that suggests a conflict of interest, please refer the situation the Executive Director, who will in turn seek a determination from the Board of Directors as to whether a conflict exists, and if it exists, whether it is an allowable conflict.
 
 ### Professional Conduct
-The company adheres to the highest legal and ethical standards applicable in our business.  The company's business is conducted in strict observance of both the letter and spirit of all applicable laws and the integrity of each employee is of utmost importance.
+Our organization adheres to the highest legal and ethical standards applicable in our line of work.  The organization's business is conducted in strict observance of both the letter and spirit of all applicable laws and the integrity of each employee is of utmost importance.
 
 ### Contact with the Media
-All media inquiries regarding the company and its operations must be referred to the Executive Director.  Only the Executive Director or Chairman of the Board is authorized to make or approve public statements on behalf of the company.
+We strive to balance the need for intentionality in our organizational communications with each employee's fundamental free speech rights and the import role of media in our society.
 
+It is our policy that media inquiries directly pertaining to the organization, its employees, products, positions, or related operations be referred to the Executive Director.
+
+We also encourage individual employees to speak to members of the media about any subject matter of their choosing, including any subject matter in which the organization may be involved.  We simply ask that you present your views as "personal" and not of the organization (unless authorized to do so).
 
 ## Staff & Boards
 
@@ -75,24 +122,25 @@ All media inquiries regarding the company and its operations must be referred to
 * Brandon Andrews, Values Partnership
 * Dr. Anne Washington, George Mason University
 
-
 ## Benefits & Compensation
 
 ### Payroll
-Administered twice monthly, on the 15th and last day of each month, via direct deposit.  The organization's treasurer is available to help with any payroll or benefits questions.
+Administered twice monthly, on the 15th and last day of each month, via direct deposit. If either date falls on a weekend, payroll administration will occur on the Friday immediately prior.
+
+The organization's Executive Director is available to help with any payroll or benefits questions.
 
 ### Medical,  Dental and Vision Coverage
-We receive health and dental coverage and pharmacy benefits through a Company sponsored Healthcare plan.  The company pays 80% of the premium cost of the plan.  The employee pays 20% through payroll deduction.  Enrollment in the benefit plans is optional.
+We receive health and dental coverage and pharmacy benefits through an employer-sponsored health insurance plan.  The company pays 80% of the premium cost of the plan.  The employee pays 20% through payroll deduction.  Enrollment in the benefit plans is optional.
 
-The current plan is a United Healthcare PPO Plan, including dental and vision coverage.  Physician network and other services can be found at www.myuhc.com
+Employees will receive specific benefit enrollment information during their onboarding process.
 
-### Annual Team Member Performance Review, Raises, and Bonuses
-Each employee will participate in an annual review of their performance, conducted by the employee's direct supervisor.  Raises and bonuses will be considered by the Board of Directors at that time based on the individual employee's performance and recommendation from the Executive Director.
+### Performance Assessments
+Our organization is committed to a fair, collaborative, and straightforward review of each employee's performance.  We are in the process of determining the best methodology to carry out this commitment and will update this manual when a determination is made.
 
+### Raises and Bonuses
 Annual cost of living increases will be combined with any merit increases described above.  These will be reviewed and approved by the Board of Directors on an annual basis.
 
 Additional raises and bonuses may be considered at other times to account for special circumstances, such as extraordinary performance, a change in position and/or an increase in responsibilities.
-
 
 ## Reimbursable Expenses
 
@@ -142,7 +190,7 @@ Employees are able to work from home and/or remotely and the organization will m
 Any time that you won't be available during the regular work day (9 PM to 5 PM locally) should be put on your calendar the organization's calendar.
 
 ### Vacation & Leave Policy
-We are closed on all [Federal holidays](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/holidays-work-schedules-and-pay), the day after Thanksgiving, and during the week between Christmas and the New Year.  We also have a few additional days off, please see [the attached holidays list](holidays.md).
+We are closed on all [Federal holidays](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/holidays-work-schedules-and-pay), the day after Thanksgiving, and during the week between Christmas and the New Year.
 
 We expect everyone to be able to get their work done in a timely fashion, and to not have to work on personal time.  Rested and refreshed people are better team members, and we strongly encourage enjoying life outside of the office.  
 
@@ -167,7 +215,7 @@ We will set you up with an organizational Google Suite account.  This will provi
 
 Please use your organizational email address for all work-related correspondence, scheduling, etc.  Personal accounts should not be used for work-related activities.
 
-You will be granted access to our shared passwords in Passpack.  All passwords that need to be shared with the organization must be shared using Passpack or a secure service such as [Toaster](https://fugacious.18f.gov/). Passwords should not be shared via email or other insecure methods.
+You will be granted access to our shared password manager.  All passwords that need to be shared with the organization must be shared using this manager; passwords should not be shared via email or other insecure methods.
 
 ### Calendars
 Please keep your availability updated on your Google calendar account associated with the organization - please don't use your personal account.  Please record any meetings, vacation time, appointments, and anything else that your teammates might need to schedule around.  Feel free to schedule meetings with other coworkers on the Google calendar.
@@ -176,11 +224,11 @@ Please keep your availability updated on your Google calendar account associated
 All meetings must be held in a manner that allows for full participation of all employees, regardless of such individual variables such as geographic location.
 
 #### Daily Standup(s)
-To better coordinate organizational or product development efforts, one or more daily standups may be scheduled, each lasting no longer than 20 minutes.  
+To better coordinate organizational or product development efforts, one or more daily standups may be scheduled, each lasting no longer than 15 minutes.  
 
-The sole purpose of the daily standup is to provide a short summary of what you focused on the previous day, what you are planning on focusing on today, and, critically, identification of any obstacles or blockers that may prevent you from completing a task.  
+The purpose of the daily standup is to provide a short summary of what you focused on the previous day, what you are planning on focusing on today, and, critically, identification of any obstacles or blockers that may prevent you from completing a task.  
 
-Once each participate has completed their summary, the standup may be ended.  Should a topic be raised that requires more in depth discussion, a separate meeting should be scheduled.
+Once each participant has completed their summary, the standup may be ended.  Should a topic be raised that requires more in depth discussion, a separate meeting should be scheduled.
 
 #### Weekly All Hands
 We meet once a week as a complete team for no more than 30 minutes to discuss organization-level topics, share important updates, and, most importantly, celebrate our work through informal talks or product demos.  Should a topic be raised that requires more in depth discussion, a separate meeting should be scheduled.
