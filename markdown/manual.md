@@ -98,29 +98,25 @@ We also encourage individual employees to speak to members of the media about an
 
 ### Staff
 * Seamus Kraft, Co-Founder and Executive Director
-* Meag Doherty, Chief of Staff
+* Aaron Ogle, Director of Product
+* Patrick Bateman, Deputy Executive Director & Chief of Staff
 * Seth Etter, Senior Developer
 * Tanner Doshier, Senior Developer
-* Mary Kate Mezzetti, Intern
+* Kunal Kothari, Fellow
 
 ### Board of Directors
-* Darrell Issa, Chairman
-* Seamus Kraft, President and Vice-Chairman
+* Phaedra Chrousos, Chairman
+* Laurent Crenshaw, Vice Chairman
+* Seamus Kraft, Secretary
 * Rich Hirshberg, Treasurer
-* James Lacy, Counsel
-* Tom Davis, Member
-* Abhi Nemani, Member
-* Larry Brady, Member
+* Jo-Marie St. Martin, Member
 
 ### Board of Advisers
 * Scout Addis, Design
-* Dr. Anne Washington, Legal Data and Informatics
-* Joe Trippi, Political Campaigns
-* Karien Bezuidenhout, Shuttleworth Foundation
-* Lanham Napier, BuildGroup
+* Karien Bezuidenhout, Internal Growth
+* Dr. Anne Washington, Open Legal Data
 * Aaron Bartnick
-* Brandon Andrews, Values Partnership
-* Dr. Anne Washington, George Mason University
+* Brandon Andrews
 
 ## Benefits & Compensation
 
