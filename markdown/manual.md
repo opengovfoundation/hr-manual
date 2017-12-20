@@ -22,7 +22,7 @@ In our work, we will strive to uphold these values:
 
 ## Creating a Safe, Productive Workplace
 
-### Equal Employment, Non-Discrimination and Reasonable Accommodation
+### Equal Employment, Non-Discrimination, and Reasonable Accommodation
 The OpenGov Foundation is committed to equal employment opportunity.
 
 We will not discriminate against employees or applicants for employment on any legally recognized basis including, but not limited to race, religion, color, sex (with or without sexual conduct and including pregnancy and sexual orientation involving transgender status/gender identity, and sex-stereotyping), national origin, age, disability (physical or mental), genetic information, sexual orientation, or any other protected class under federal, state or local law, *as well as* gender identity, parental status, marital status, political affiliation, gender expression, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, or clothing.
@@ -36,7 +36,7 @@ The following are considered a protected class: race; religious creed; color; na
 
 The purpose of this policy is to ensure that in the workplace, no employee harasses another for any reason or in any manner. The conduct prohibited by this policy includes conduct in any form including but not limited to e-mail, voice mail, chat rooms, social networking, internet use or history, text messages, pictures, images, writings, words or gestures.
 
-While it is not easy to define precisely what harassment is, it includes: slurs, epithets, threats, derogatory comments or visual depictions, unwelcome jokes and teasing.
+While it is not easy to define precisely what harassment is, it includes: slurs, epithets, threats, derogatory comments or visual depictions, unwelcome jokes, and teasing.
 
 For authoritative guidance on legally prohibited harassment and boundaries, please consult the [U.S. Equal Employment Opportunity Commission](https://www.eeoc.gov/laws/index.cfm).
 
@@ -125,7 +125,7 @@ Administered twice monthly, on the 15th and last day of each month, via direct d
 
 The organization's Executive Director is available to help with any payroll or benefits questions.
 
-### Medical, Dental and Vision Coverage
+### Medical, Dental, and Vision Coverage
 We receive health and dental coverage and pharmacy benefits through an employer-sponsored health insurance plan. The company pays 80% of the premium cost of the plan. The employee pays 20% through payroll deduction. Enrollment in the benefit plans is optional.
 
 Employees will receive specific benefit enrollment information during their onboarding process.
