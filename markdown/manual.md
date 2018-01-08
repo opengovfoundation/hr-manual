@@ -33,7 +33,7 @@ We prohibit harassment of one employee by another employee, supervisor or third 
 
 The following are considered a protected class: race; religious creed; color; national origin; ancestry; physical disability; mental disability; medical condition, including genetic characteristics; marital status; sex; pregnancy, childbirth or related medical conditions; actual or perceived gender; gender identity; sexual orientation; civil air patrol membership; service in the military forces and age (40 or over). Included in the definition of each protected category is the perception of membership in a protected category and an individual's association with an actual or perceived member of a protected category.
 
-The purpose of this policy is to ensure that all employees shall be from harassment of any kind.  The conduct prohibited by this policy includes conduct in any form including but not limited to e-mail, voice mail, chat rooms, social networking, internet use or history, text messages, pictures, images, writings, words or gestures.
+The purpose of this policy is to ensure that all employees shall be free from harassment of any kind.  The conduct prohibited by this policy includes conduct in any form including but not limited to e-mail, voice mail, chat rooms, social networking, internet use or history, text messages, pictures, images, writings, words or gestures.
 
 While it is not easy to define precisely what harassment is, it includes: slurs, epithets, threats, derogatory comments or visual depictions, unwelcome jokes, and teasing.
 
