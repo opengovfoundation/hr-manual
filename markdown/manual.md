@@ -1,9 +1,9 @@
 # Policy Manual
 
-Last Updated: YYYY-MM-DD
+Last Updated: 2018-01-08
 
 ## Our Mission
-To make the process of lawmaking easier, simpler, and more effective.
+We serve those who serve the people in America's legislatures.
 
 ## Vision
 To serve as a reliable product development partner for legislators who want to make systems of governance more open, accessible, and functional. Our products are incrementally built to address meaningful, well-known problems and are focused intently on serving user needs over stakeholder interests.
@@ -18,7 +18,6 @@ In our work, we will strive to uphold these values:
 - Actionable problems
 - Well documented
 - Showing, not telling
-- Deeds over words
 
 ## Creating a Safe, Productive Workplace
 
@@ -34,7 +33,7 @@ We prohibit harassment of one employee by another employee, supervisor or third 
 
 The following are considered a protected class: race; religious creed; color; national origin; ancestry; physical disability; mental disability; medical condition, including genetic characteristics; marital status; sex; pregnancy, childbirth or related medical conditions; actual or perceived gender; gender identity; sexual orientation; civil air patrol membership; service in the military forces and age (40 or over). Included in the definition of each protected category is the perception of membership in a protected category and an individual's association with an actual or perceived member of a protected category.
 
-The purpose of this policy is to ensure that in the workplace, no employee harasses another for any reason or in any manner. The conduct prohibited by this policy includes conduct in any form including but not limited to e-mail, voice mail, chat rooms, social networking, internet use or history, text messages, pictures, images, writings, words or gestures.
+The purpose of this policy is to ensure that all employees shall be from harassment of any kind.  The conduct prohibited by this policy includes conduct in any form including but not limited to e-mail, voice mail, chat rooms, social networking, internet use or history, text messages, pictures, images, writings, words or gestures.
 
 While it is not easy to define precisely what harassment is, it includes: slurs, epithets, threats, derogatory comments or visual depictions, unwelcome jokes, and teasing.
 
@@ -69,8 +68,10 @@ In addition to prohibiting harassment in these forms, we also consider the follo
     - Referring to an individual in a way that demeans or challenges the validity of any aspect of their personal identity, or
     - Mocking someone’s real or perceived accent or first language.
 
+In sum, we always seek to maintain a professional, healthy and supportive environment for every employee.  The guiding principle of The OpenGov Foundation is to be excellent to one another.
+
 ### Reporting and Resolution of Violations
-Any employee who believes they have been harassed or believes they have witnessed another member of our organization violate the terms of this document should report the situation immediately to one of the following members of management: Executive Director, Treasurer or Chairman of the Board of Directors. If an employee makes a report to one of these persons and the employee does not receive a satisfactory response, the employee shall report the situation to one of the other designated persons to receive complaints.
+Any employee who believes they have been harassed or believes they have witnessed another member of our organization violate the terms of this document should report the situation immediately to one of the following members of management: Executive Director, Chair, Vice Chair, or Treasurer of the Board of Directors. If an employee makes a report to one of these persons and the employee does not receive a satisfactory response, the employee shall report the situation to one of the other designated persons to receive complaints.
 
 The organization will investigate all such reports as confidentially as possible. Adverse action will not be taken against an employee because he or she, in good faith, reports or participates in the investigation of a violation of this policy. Violations of this policy are not permitted and may result in disciplinary action, up to and including discharge.
 
@@ -98,10 +99,10 @@ We also encourage individual employees to speak to members of the media about an
 
 ### Staff
 * Seamus Kraft, Co-Founder and Executive Director
-* Aaron Ogle, Director of Product
 * Patrick Bateman, Deputy Executive Director & Chief of Staff
-* Seth Etter, Senior Developer
-* Tanner Doshier, Senior Developer
+* Aaron Ogle, Director of Product
+* Seth Etter, Senior Engineer
+* Tanner Doshier, Senior Engineer
 * Kunal Kothari, Fellow
 
 ### Board of Directors
@@ -179,11 +180,11 @@ To seek approval for a professional development opportunity, please submit the f
 
 Employees are expected to work 40 hours per week, but we are flexible on where and when that work gets done.
 
-Employees are expected to attend all meetings to which they have been invited as a "required" participant. Communication is vital to the success of our team; therefore, team members are expected to be reasonably accessible by phone, Slack, and email between the hours of 11 AM–4 PM.
+Employees are expected to attend all meetings to which they have been invited as a "required" participant. Communication is vital to the success of our team; therefore, team members are expected to be reasonably accessible by phone, Slack, and email between the hours of 11 AM–4 PM in their local timezone.
 
 Employees are able to work from home and/or remotely and the organization will make all efforts to ensure a comparable work experience regardless of where an employee is located.
 
-Any time that you won't be available during the regular work day (9 PM to 5 PM locally) should be put on your calendar the organization's calendar.
+Any time that you won't be available during the regular work day (9 AM to 5 PM locally) should be put on your calendar and the organization's calendar.
 
 ### Vacation & Leave Policy
 We are closed on all [Federal holidays](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/holidays-work-schedules-and-pay), the day after Thanksgiving, and during the week between Christmas and the New Year.

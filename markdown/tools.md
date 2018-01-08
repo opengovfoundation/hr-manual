@@ -6,9 +6,6 @@ There are lots of tools and platforms that we use to get our work done.  The fol
 ### Slack
 For team chat. And sharing cat videos.
 
-### UberConference
-For group phone calls.
-
 ### Google Mail
 Our email platform.
 
@@ -47,13 +44,34 @@ Our exception monitoring and logging platform.
 ### CircleCI
 Our automated testing and deployment platform.
 
+### Linode
+One of our cloud service providers.
+
+### Amazon Web Services
+Another one of our cloud service providers.
+
+### Google Cloud Platform
+Yet another cloud service provider.
+
+### Twilio
+Our cloud service provider of telephony stuff.
+
+### GoDaddy
+Domain registration.
+
+### Namecheap
+Domain registration.
+
+### SendGrid
+Outgoing email management.
+
 ## Used Mostly by Our Management and Operations Team
 
 ### Flow
 For management and operations task herding, including assignment and monitoring.  Also available delivery teams for product/project management purposes.
 
-### Nimble
-Nimble is used as a place to store contacts, pending deals, and record communication for fundraising purposes. Find out more about how we use Nimble [here](platform-how-to-guides.md).
+### Affinity
+Affinity is used as a place to store contacts, pending deals, and record communication for fundraising purposes.
 
 ### Harvest
 At present, only used for invoice generation.
@@ -64,5 +82,14 @@ How we organize our expense documentation and generate reimbursement requests.
 ### Mailchimp
 Our email campaign platform.
 
+### Splash
+For sending out and tracking invitations to events.
+
 ### Doodle
 For scheduling big meetings.
+
+### UberConference
+For group phone calls.
+
+### Medium
+For writing blog posts and making great publications.
