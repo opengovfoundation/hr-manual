@@ -106,11 +106,12 @@ We also encourage individual employees to speak to members of the media about an
 * Kunal Kothari, Fellow
 
 ### Board of Directors
-* Phaedra Chrousos, Chairman
-* Laurent Crenshaw, Vice Chairman
+* Phaedra Chrousos, Chair
+* Laurent Crenshaw, Vice Chair
 * Seamus Kraft, Secretary
 * Rich Hirshberg, Treasurer
-* Jo-Marie St. Martin, Member
+* Michelle Lee
+* Aaron Snow
 
 ### Board of Advisers
 * Scout Addis, Design
@@ -118,6 +119,10 @@ We also encourage individual employees to speak to members of the media about an
 * Dr. Anne Washington, Open Legal Data
 * Aaron Bartnick
 * Brandon Andrews
+* Jo-Marie St. Martin
+* Peter Karman
+* Janine Gianfredi
+* Bob Sofman
 
 ## Benefits & Compensation
 
