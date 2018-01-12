@@ -19,7 +19,7 @@ For composition of and group collaboration on written materials.
 For group video calls. When you create a new meeting in Google calendar, a video Hangout will be automatically created.
 
 ### GitHub
-Where we maintain our `git`-based organizational efforts.  Most projects should have an Apache 2, MIT, or LGPL 3 license; most resources should be released as CC-0.
+Where we maintain some of our `git`-based work. Also, see *Phabricator*, below.
 
 ### Passpack
 For password storage. Please create your own Passpack account and connect with the main organization account. Any time you create an account relevant to our work, please share the password with the organization on Passpack.

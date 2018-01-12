@@ -6,7 +6,7 @@ Last Updated: 2018-01-08
 We serve those who serve the people in America's legislatures.
 
 ## Vision
-To serve as a reliable product development partner for legislators who want to make systems of governance more open, accessible, and functional. Our products are incrementally built to address meaningful, well-known problems and are focused intently on serving user needs over stakeholder interests.
+To serve as a reliable product development partner for legislators who want to make systems of governance more open, more accessible, and more effective. Our products are iteratively built to address meaningful, well-known problems in new, innovative ways and are focused intently on serving user needs over stakeholder interests.
 
 ## Values
 In our work, we will strive to uphold these values:
@@ -14,7 +14,7 @@ In our work, we will strive to uphold these values:
 - Collaborative
 - User driven
 - Inclusive design
-- Incremental development
+- Iterative development
 - Actionable problems
 - Well documented
 - Showing, not telling
@@ -68,7 +68,7 @@ In addition to prohibiting harassment in these forms, we also consider the follo
     - Referring to an individual in a way that demeans or challenges the validity of any aspect of their personal identity, or
     - Mocking someone’s real or perceived accent or first language.
 
-In sum, we always seek to maintain a professional, healthy and supportive environment for every employee.  The guiding principle of The OpenGov Foundation is to be excellent to one another.
+In sum, we always seek to maintain a professional, healthy and supportive environment for every employee. **The guiding principle of The OpenGov Foundation is to be excellent to one another.**
 
 ### Reporting and Resolution of Violations
 Any employee who believes they have been harassed or believes they have witnessed another member of our organization violate the terms of this document should report the situation immediately to one of the following members of management: Executive Director, Chair, Vice Chair, or Treasurer of the Board of Directors. If an employee makes a report to one of these persons and the employee does not receive a satisfactory response, the employee shall report the situation to one of the other designated persons to receive complaints.
@@ -81,7 +81,7 @@ The unlawful or improper presence or use of controlled substances or alcohol in 
 Our organization recognizes that drug or alcohol abuse are serious medical conditions and should be treated as such. Therefore, we shall provide all appropriate organizational support and assistance to those within the organization who request it. We will also seek out and retain a employer-sponsored health insurance plan that provide drug and alcohol treatment services.
 
 ### Conflict of Interest
-Employees must never use their positions with the organization for private gain, to advance personal interests or to obtain favors or benefits for themselves, member of their families or any other individuals, corporations of business entities. Furthermore, employees should avoid situations where a *perception* of a conflict of interest could be created.
+Employees must never use their positions with the organization for private gain, to advance personal interests or to obtain favors or benefits for themselves, members of their families or any other individuals, corporations, or business entities. Furthermore, employees should avoid situations where a *perception* of a conflict of interest could be created.
 
 Should you encounter a situation that suggests a conflict of interest, please refer the situation the Executive Director, who will in turn seek a determination from the Board of Directors as to whether a conflict exists, and if it exists, whether it is an allowable conflict.
 
@@ -89,7 +89,7 @@ Should you encounter a situation that suggests a conflict of interest, please re
 Our organization adheres to the highest legal and ethical standards applicable in our line of work. The organization's business is conducted in strict observance of both the letter and spirit of all applicable laws and the integrity of each employee is of utmost importance.
 
 ### Contact with the Media
-We strive to balance the need for intentionality in our organizational communications with each employee's fundamental free speech rights and the import role of media in our society.
+We strive to balance the need for intentionality in our organizational communications with each employee's fundamental free speech rights and the important role of media in our society.
 
 It is our policy that media inquiries directly pertaining to the organization, its employees, products, positions, or related operations be referred to the Executive Director.
 
@@ -189,7 +189,7 @@ Employees are expected to attend all meetings to which they have been invited as
 
 Employees are able to work from home and/or remotely and the organization will make all efforts to ensure a comparable work experience regardless of where an employee is located.
 
-Any time that you won't be available during the regular work day (9 AM to 5 PM locally) should be put on your calendar and the organization's calendar.
+Any time that you won't be available during the regular work day (9 AM to 5 PM locally) should be put on your work calendar so your colleagues will know that you are not available.
 
 ### Vacation & Leave Policy
 We are closed on all [Federal holidays](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/holidays-work-schedules-and-pay), the day after Thanksgiving, and during the week between Christmas and the New Year.
@@ -205,7 +205,7 @@ For maternity and paternity leave, employees are encouraged to take up to 16 wee
 #### Taking Leave
 Employees must inform your supervisor in writing as far in advance as is reasonable for staff and project planning purposes. All extended periods of leave must be discussed with the Executive Director.
 
-To schedule time off, permission must be granted by your supervisor no less than 5 business days in advance, the dates your travel must be put onto the team calendar (just invite sayhello [at] opengovfoundation.org), and the team should be notified via email.
+To schedule time off, permission must be granted by your supervisor no less than 5 business days in advance, the dates your travel must be put onto the your work calendar and the team should be notified.
 
 ### Sick Days
 Please notify the team if you are sick and need to take the day off. Even if you are feeling well enough to work, please work from home until you are completely recovered, to avoid spreading illness through our small office.
@@ -232,18 +232,13 @@ The purpose of the daily standup is to provide a short summary of what you focus
 
 Once each participant has completed their summary, the standup may be ended. Should a topic be raised that requires more in depth discussion, a separate meeting should be scheduled.
 
-#### Weekly All Hands
-We meet once a week as a complete team for no more than 30 minutes to discuss organization-level topics, share important updates, and, most importantly, celebrate our work through informal talks or product demos. Should a topic be raised that requires more in depth discussion, a separate meeting should be scheduled.
-
-Participation in the weekly standup is required of all organization employees and must allow for the full participation of all employees regardless of geographic location.
-
 #### Book Clubs, "Family" Meals, and Other Informal Rituals
 We are a small, close knit team. To maintain a balanced, healthy, and fun organization, we encourage the formation of informal gatherings and groups. Any employee may sponsor an informal gathering or group so as long it is are open to all employees and supports organizational health.
 
 As in any endeavor, it is critical that any informal gathering or group clearly define its purpose and the expectation placed upon its participants.
 
 ### Tools & Services We Use
-We utilize an ever-changing array of tools and platforms to get our work down. Employees are expected to familiarize themselves with all tools that are applicable to their work areas. Trial and adoption of new tools is encouraged and should be done in a collaborative manner with your colleagues to encourage operational alignment and discourage tool siloing.
+We utilize an ever-changing array of tools and platforms to get our work done. Employees are expected to familiarize themselves with all tools that are applicable to their work areas. Trial and adoption of new tools is encouraged and should be done in a collaborative manner with your colleagues to encourage operational alignment and discourage tool siloing.
 
 We do our best to keep our [tool and platform](tools.md)] list up to date.
 
