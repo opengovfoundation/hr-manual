@@ -113,11 +113,10 @@ We also encourage individual employees to speak to members of the media about an
 * Michelle Lee
 * Aaron Snow
 
-### Board of Advisers
+### Board of Advisors
 * Scout Addis, Design
 * Karien Bezuidenhout, Internal Growth
 * Dr. Anne Washington, Open Legal Data
-* Aaron Bartnick
 * Brandon Andrews
 * Jo-Marie St. Martin
 * Peter Karman
